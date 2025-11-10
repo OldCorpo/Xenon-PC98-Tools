@@ -9,10 +9,15 @@ better the underlyings.
 ![sublime_text.png](docs/sublime_text.png)
 
 This can be done by:
-   Installing the plugin ConvertToUTF8 and Codecs33
-   Opening the file
-   Reopen with encoding > DOS (CP 437)
-   Reload with encoding > Shift-JIS
+
+    Installing the plugin ConvertToUTF8 and Codecs33
+    Opening the file
+    Reopen with encoding > DOS (CP 437)
+    Reload with encoding > Shift-JIS
+
+In this format text appears to be always behind a '²' followed by a letter or character, like '²Z', '²X', 
+'²6', '²$', '².', '² ', etc.
+
 
 ## File structure
 
