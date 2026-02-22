@@ -46,6 +46,47 @@ def load_translations(filename):
     return translations
 
 
+def process_anomalous_string(data: bytes, translations: dict) -> bytes:
+    """
+    Processes raw binary data:
+    - Splits by b'\x00\xFD??' and b'\x00'
+    - Attempts Shift-JIS decoding on non-separator chunks
+    - Replaces text if found in translations dict
+    - Rebuilds and returns final bytes losslessly
+    """
+
+    # Pattern:
+    # 00 FD ??   -> b'\x00\xFD.'
+    # 00         -> b'\x00'
+    pattern = re.compile(rb'(\x00\xFD.|\x00)')
+
+    parts = pattern.split(data)
+    rebuilt = bytearray()
+
+    for part in parts:
+        if re.fullmatch(rb'\x00\xFD.', part) or part == b'\x00':
+            rebuilt.extend(part)
+            continue
+
+        if not part:
+            continue
+
+        try:
+            decoded = part.decode('shift_jis')
+
+            if decoded in translations:
+                new_bytes = translations[decoded].encode('shift_jis')
+                rebuilt.extend(new_bytes)
+            else:
+                rebuilt.extend(part)
+
+        except UnicodeDecodeError:
+            rebuilt.extend(part)
+
+    return bytes(rebuilt)
+
+
+
 def process_file(input_file, translation_file, output_file):
     translations = load_translations(translation_file)
 
@@ -84,7 +125,8 @@ def process_file(input_file, translation_file, output_file):
             original_text = original_bytes.decode("shift_jis")
         except UnicodeDecodeError:
             # If it fails decoding, keep original
-            output.extend(original_bytes)
+            processed_string = process_anomalous_string(original_bytes, translations)
+            output.extend(processed_string)
             pos = end_content
             continue
 
