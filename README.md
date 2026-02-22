@@ -5,7 +5,7 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 ### Advancement
 
     Translation : Roughly the 98.5% ~ 100% is translated (but may need style revisions and other things)
-    Insertion   : Between 80% and 90% of the translation is being inserted into the game files
+    Insertion   : More than 92% of the translation is currently in place into the game files
 
 ### Workflow
 
@@ -32,3 +32,22 @@ xenreplacer.py ../scripts_cc/S0104.U.CC
 4a_play_eng.bat
 ```
 6. An option to use the original Japanese version for comparison using 4b_play_jap.bat is available.
+
+
+
+### Credits
+
+    OldCorpo - Translation, Tools, Editing
+       Xanderzone - Testing, Support
+          Fuzion - Testing, Support
+
+          ~ additional translation ~
+         HempTL - English translation
+
+       ~ based on the original work of ~
+                  siriusxiv
+                 esperknight
+                 MulletDonkey
+                   OmBadai
+    
+
