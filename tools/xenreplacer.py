@@ -53,6 +53,7 @@ def process_anomalous_string(data: bytes, translations: dict) -> bytes:
     - Attempts Shift-JIS decoding on non-separator chunks
     - Replaces text if found in translations dict
     - Rebuilds and returns final bytes losslessly
+    - Catching edge cases like b'\x00' b'\x0C' b'\x04' b'\x05'
     """
 
     # Pattern:
@@ -64,7 +65,16 @@ def process_anomalous_string(data: bytes, translations: dict) -> bytes:
     rebuilt = bytearray()
 
     for part in parts:
-        if re.fullmatch(rb'\x00\xFD.', part) or part == b'\x00':
+        if (
+            re.fullmatch(rb'\x00\xFD.', part) or 
+            #re.fullmatch(rb'\x04\xFD.', part) or 
+            #re.fullmatch(rb'\x0A\xFD.', part) or 
+            part == b'\x00' or
+            part == b'\x0C' or
+            part == b'\x04' or
+            part == b'\x05'
+            ):
+
             rebuilt.extend(part)
             continue
 
@@ -151,8 +161,13 @@ def process_file(input_file, translation_file, output_file):
         f.write(output)
 
 
-# Main loop
+
 if __name__ == "__main__":
+    """
+    Main loop
+    - Preparing arguments to process the files
+    - Otherwise fallback to defaults
+    """
     parser = argparse.ArgumentParser(description="Process .U.CC script file.")
 
     parser.add_argument("input_file", help="Path to input file (on ../scripts_cc/)")
@@ -184,4 +199,7 @@ if __name__ == "__main__":
         # Replace 'scripts_cc' directory with 'scripts_merge'
         output_path = input_path.parent.parent / "scripts_merge" / input_path.name
 
+    """
+    - Process files
+    """
     process_file(input_path, translation_path, output_path)
