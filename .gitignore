@@ -18,3 +18,5 @@
 # leftover files
 /sandbox
 *.bak
+/scripts_steps/*.U.CC.S*
+
