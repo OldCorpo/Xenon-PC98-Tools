@@ -12679,11 +12679,7 @@ Huh? The electricity went out...
 [Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
-<<<<<<< HEAD
-//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
-=======
 // 　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
->>>>>>> b8e3f5a (Adding updated translation.)
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
 On a thick, heavy plate in front of the room before me, the words "VIP ROOM" were inscribed.
