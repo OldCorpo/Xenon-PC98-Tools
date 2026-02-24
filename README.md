@@ -5,7 +5,7 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 ### Advancement
 
     Translation : Roughly the 98.5% ~ 100% is translated (but may need style revisions and other things)
-    Insertion   : More than 92% of the translation is currently in place into the game files
+    Insertion   : Latest patch covers 98.2% of the translation into the game files
 
 ### Workflow
 
