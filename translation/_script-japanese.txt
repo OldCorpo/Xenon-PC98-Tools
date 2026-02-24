@@ -454,7 +454,7 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［私］：あっ、待ってくれ！‥‥ランファ！？
 [Me]: Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
-//[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
+[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
@@ -9747,8 +9747,12 @@ ko01
 [Kouji]: What's the point of all this?
 //［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。
 [Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
-//［コウジ］：‥‥‥<$0C>‥‥‥<$0C>‥‥‥。
-[Kouji]: .........
+//［コウジ］：‥‥‥
+[Kouji]: ......
+//‥‥‥
+...
+//‥‥‥。
+...
 //どうやら、意識が回復してきたようだった。私の浮遊していた思念が、すーっと身体に入っていく感覚が起きる。
 My consciousness had somehow recuperated. My drifting thoughts were suddenly thrust back into my body.
 //視覚も戻ってきたようだ‥‥ゆっくりと目を開けてみる。
@@ -10039,8 +10043,10 @@ Boooooom!!!
 [Kouji]: It hurts, so let's stop.
 //例のコンピュータルームの前へやってくる。重々しいドアが、目の前に私を阻まんとするかのようにそびえ立っていた。
 I reached the aforementioned computer room. The towering heavy-looking door stood in my way.
-//［コウジ］：‥‥‥‥‥<$0C>‥‥‥‥‥。
+//［コウジ］：‥‥‥‥‥
 [Kouji]: ........
+//‥‥‥‥‥。
+........
 //［コウジ］：おかしい、このキーで開くはずだが‥‥壊れているのか。
 [Kouji]: How odd, this key should open the door...it might be broken.
 //ドアの前で、あれこれ思案する様は、どうも、かなり間抜けな醜態をさらしている気がする。
@@ -10187,8 +10193,10 @@ There's no doubt about it, this woman is waiting to be ravished. To surrender he
 She didn't have a free hand. As I concluded that, I grabbed Megumi by the hands, and somewhat roughly pulled her towards me.
 //meg01c
 meg01c
-//［恵］：あっ、痛っ‥‥<$0C>んっ！？
-[Megumi]: Ah- it hurts... Mm!?
+//［恵］：あっ、痛っ‥‥
+[Megumi]: Ah- it hurts...
+//んっ！？
+ Mm!?
 //私は有無を言わさず、唇を重ね合わせた。すかさず舌を送り込み、彼女の舌を絡め取る。
 I said nothing as I pressed my lips tightly to hers. Without a moment's delay, I inserted my tongue into her mouth and entwined her tongue.
 //［恵］：んんっ、んんんんっっ！
@@ -11369,8 +11377,12 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 [Ryouko]: Now, now, it's time. to. sleep....*kiss*
 //［宏治］：りょ、涼子‥‥せんせ‥‥‥‥。
 [Kouji]: Ry-Ryouko...sensei....
-//［宏治］：‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
-[Kouji]: ............
+//［宏治］：‥‥‥‥
+[Kouji]: .........
+//‥‥‥‥
+...
+//‥‥‥‥。
+...
 //［宏治］：（重々しい音が聞こえてくる‥‥‥‥。）
 [Kouji]: (I hear a heavy sound....)
 //［宏治］：（オレはいったい、どうしちまったんだ‥‥。）
@@ -11889,8 +11901,12 @@ But if I treat this as real, it's real. Am I really here, in outer space...?
 No, no, that's not scientific at all. There's no way that's the case.
 //まっ、慌てる必要はないさ‥‥ゆっくりと‥‥。
 Well, there's no need to fret about it...let's just drift...
-//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
-.........................
+//‥‥‥‥
+...........
+//‥‥‥‥
+.......
+//‥‥‥‥。
+.......
 //［宏治］：（ドキッ‥‥涼子先生！？）
 [Kouji]: (Ba-bump...Doctor Ryouko?!)
 //［涼子］：さっき彼女に話していたこと‥‥。
@@ -11991,8 +12007,12 @@ As I looked closely at the door, I noticed a plate at eye level.
 So this is for Very Important People...
 //傍らのコンパネに手を伸ばしてみる。見よう見まねで、赤く点滅しているボタンを押してみる。
 I pushed the control panel next to me. Following others' example, I pushed the blinking red button.
-//‥‥‥‥‥‥<$0C>‥‥‥‥‥‥<$0C>‥‥‥‥‥‥。
-................................
+//‥‥‥‥‥‥
+..........
+//‥‥‥‥‥‥
+..........
+//‥‥‥‥‥‥。
+..........
 //どうやら、誰もいないようだな‥‥。ここでこうして立っていても、しょうがないようだ。
 It seems no one is here.... Well, there's no use just standing around here.
 //無駄なことが嫌いなオレは、そのまま元の廊下へと戻っていった‥‥。
@@ -12091,8 +12111,10 @@ As she carried a white box, a hurried, running Tracy entered my field of vision.
 [Kouji]: Eh-? Ah....
 //［トレイシー］：ちょっと痛いかもしれませんが、我慢して下さいね。
 [Tracy]: This might hurt a little, but please endure.
-//［宏治］：えっ‥‥<$0C>んぎゃぉう！！
-[Kouji]: Eh-...ngYOWww!!
+//［宏治］：えっ‥‥
+[Kouji]: Eh-...
+//んぎゃぉう！！
+ngYOWww!!
 //どこかに得体の知れない猛獣がいるのではと一瞬疑ったが、何のことはない、自分の声だった。
 For an instant, I thought there was some unknown wild beast somewhere that made the noise, but no, it was my own voice.
 //トレイシーはオレのコブシ部分をさすっている。骨折の有無でも、確かめているのだろうか。何とも乱暴だと思うが‥‥。
@@ -12403,8 +12425,10 @@ As my hands gripped the cold metal, rung by rung, I carefully climbed down the l
 [Kouji]: Who's asking for the definition of an engine here? I was asking why this stupidly huge appliance is here.
 //［ランファ］：‥‥でも、コウジ様が設計・製作されたんですよ。
 [Lanhua]: ....But, Kouji-sama, you designed and produced it yourself.
-//［宏治］：ふーん‥‥<$0C>えっ？　オレが？
-[Kouji]: Hmmm....Huh? I did?
+//［宏治］：ふーん‥‥
+[Kouji]: Hmmm....
+//えっ？　オレが？
+Huh? I did?
 //［ランファ］：はい。エーテル光子動力を利用し、ほぼ永久機関に等しい動力により、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: Yes. On top of using ethereal photon power, nearly approaching the power of a perpetual motion machine, you installed the hyperdrive feature, too...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに散々聞いたから。
@@ -12595,8 +12619,10 @@ Using the tool in her hand, Lanhua roughly installed the wiring beside her. She 
 [Lanhua]: I'm Lanhua, Kouji-sama, have you forgotten?
 //［オレ］：はっきり言って、君のことなど知らない。
 [Me]: Speak clearly, I don't know anything about you.
-//［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥<$0C>あっ！
-[Lanhua]: How sad...please don't say such depressing things... Ah-!
+//［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥
+[Lanhua]: How sad...please don't say such depressing things...
+//あっ！
+ Ah-!
 //［オレ］：な、なに？
 [Me]: W-what is it?
 //［ランファ］：コウジ様がここにいるということは‥‥じゃあ、今ファルネリア様は！？
@@ -12615,8 +12641,12 @@ Leaving me in a confused state, the woman named Lanhua nimbly stood up and ran a
 This is no laughing matter...I'm all alone again...
 //オレはきびすを返すと、ランファと名乗る女性を、後から追いかけていった。
 I turned on my heels and chased after the woman named Lanhua.
-//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
-...<$0C>...<$0C>...
+//‥‥‥‥
+...
+//‥‥‥‥
+...
+//‥‥‥‥。
+...
 //こ、ここは‥‥。
 Wh-what...
 //何だ‥‥？
@@ -12627,8 +12657,10 @@ Wh-what...
 [Me]: Y-you...
 //［ランファ］：コウジ様？
 [Lanhua]: Kouji-sama?
-//［オレ］：そう‥‥<$0C>あれ？　電気が消えたのかな‥‥。
-[Me]: Yes... Huh? The electricity went out...
+//［オレ］：そう‥‥
+[Me]: Yes... 
+//あれ？　電気が消えたのかな‥‥。
+Huh? The electricity went out...
 //［ランファ］：コウジ様ぁ、しっかりして下さい。
 [Lanhua]: Kouji-sama, please get ahold of yourself.
 //［オレ］：このエンジンは、いったいどういうモノなんだ？
@@ -12861,8 +12893,10 @@ I've heard this sound since just a while ago. This sound...
 At first, I thought it was just tinnitus, but I faintly heard this high-pitched sound.
 //何の音かな‥‥。
 What kind of sound is it...?
-//シャワー‥‥？<$0C>　バスルームか？
-The shower...? From the bathroom?
+//シャワー‥‥？
+The shower...? 
+//　バスルームか？
+ From the bathroom?
 //　◆ バスルームの様子を見に行ってみよう‥‥。
 ◆ Let's go to the bathroom to look around...
 //　◆ 覗きのような真似は何だし、ここで待ってみよう。
@@ -12967,8 +13001,10 @@ fa02_m
 [Far]: Hmph, that's rich, coming from someone confining me here.
 //［ファル］：人のことを誘拐しておいて、いけしゃあしゃあと言うことじゃないってことよ。
 [Far]: How shamelessly you're talking about kidnapping me.
-//［宏治］：だからそれは‥‥<$0C>へっ、誘拐？
-[Kouji]: Like I said, that's...Eh, kidnapping?
+//［宏治］：だからそれは‥‥
+[Kouji]: Like I said, that's...
+//へっ、誘拐？
+ Eh, kidnapping?
 //［ファル］：なによそれ。また、しらばくれる気？
 [Far]: What's with that look? Are you still playing dumb?
 //［宏治］：いやその‥‥少し、混乱していて。
@@ -13029,8 +13065,10 @@ fa02_m
 [Kouji]: Since it's complicated, I'll cut to the chase. In any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。
 [Far]: ...Ah, thanks.
-//［宏治］：フフン、まあいいモノも見させてもらったしね‥‥<$0C>あっ。
-[Kouji]: Hehe, well, you sure showed me something nice there...Ah-!
+//［宏治］：フフン、まあいいモノも見させてもらったしね‥‥
+[Kouji]: Hehe, well, you sure showed me something nice there...
+//あっ。
+ Ah-!
 //［宏治］：痛っ‥‥ってーなぁ、頬を叩くことないだろう？
 [Kouji]: That hurt...not. Have you never slapped someone in the face?
 //［ファル］：少しでも見直した私が馬鹿だったわ。
@@ -13677,8 +13715,10 @@ Her clothing was quite suggestive. The separating blouse showed off her chest in
 [Far]: N-no...this is private wear. Since you came so suddenly...
 //［宏治］：ふーん、オレはまた、その格好で性教育でも‥‥。
 [Kouji]: Hmmm, to me, it's quite suitable for a sexual lesson...
-//［ファル］：ば、バカ言ってると‥‥<$0C>んっ。
-[Far]: H-how ridiculous... Mm-
+//［ファル］：ば、バカ言ってると‥‥
+[Far]: H-how ridiculous...
+//んっ。
+ Mm-
 //オレはファルの言葉を唇でふさいだ。この可愛い口は、小言を言うよりはキスをした方が断然良かった。今度は、彼女の方からも舌を差し込んでくる。
 I pressed my lips to Far's. That cute mouth of hers is much more suited to kissing than to small talk. This time, it was she who slipped her tongue into my mouth.
 //柔らかいファルの身体を抱き上げると、オレは身体をやや斜めに傾けた。そこにはちょうど良い具合に、ベッドが待っている。
@@ -13849,8 +13889,10 @@ fa08
 As I pulled out from her wondrous pussy, I straddled over Far's face, and thrust my dick into her roughly breathing mouth.
 //舌をだらしなく垂れさせ、恍惚とした表情をしているファルの顔が美しく歪む。眉間にシワをよせ、それでもオレのものを夢中で吸い出した。
 With her tongue hanging lazily out, Far's rapturous expression was distorted beautifully. With furrowed brow, she blew my whistle wondrously.
-//［ファル］：出して‥‥あぁぁ、出して！　コウジのミルクを沢山、私の顔に‥‥‥‥<$0C>うっ！！
-[Far]: Cum...Ahh, cum for me! I want a lot of Kouji's man milk all over my face... Oh-!!
+//［ファル］：出して‥‥あぁぁ、出して！　コウジのミルクを沢山、私の顔に‥‥‥‥
+[Far]: Cum...Ahh, cum for me! I want a lot of Kouji's man milk all over my face...
+//うっ！！
+ Oh-!!
 //［ファル］：んあぁ‥‥すごっ‥‥あはぁぁぁ‥‥。
 [Far]: Ngahh...So much...Ahaaa....
 //オレはファルの顔にたっぷりとこびり付いた精液を、自分のモノで顔中に塗りたくる。
@@ -14805,8 +14847,10 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 [Kouji]: ...it really has come to that, hasn't it?
 //［トレイシー］：フフ、それなら簡単に解決ですわ。
 [Tracy]: Hehe, if that's the case, there's an easy fix.
-//［宏治］：それって、どういう‥‥<$0C>んっ！？
-[Kouji]: By easy fix, what do- Mm-!?
+//［宏治］：それって、どういう‥‥
+[Kouji]: By easy fix, what do-
+//んっ！？
+ Mm-!?
 //to03b
 to03b
 //柔らかい唇が、そっとオレの口にかぶさってきた。熱い吐息を口腔に感じながら、オレは痺れるような感覚に見舞われてきた。
@@ -14999,8 +15043,10 @@ Even as I came, Tracy's walls coiled around my rod, milking every last drop of m
 [Kouji]: O-oh my god...it's like you're sucking it out of me...
 //［トレイシー］：もっと‥‥もっとお出しになって‥‥んくぅ‥‥。
 [Tracy]: More...Come even more for me...*gasp*...
-//ドクッ、ドクッ‥‥‥‥<$0C>ドクンッ！
-*spurt*, *spurt*....*spurt*!
+//ドクッ、ドクッ‥‥‥‥
+*spurt*, *spurt*....
+//ドクンッ！
+*spurt*!
 //［トレイシー］：あぁぁぁ、コウジ様‥‥コウジ様‥‥んっ。
 [Tracy]: Ahhh, Kouji-sama...Kouji-sama...mmm.
 //柔らかい唇がオレのに重ねられてきた。すぐに彼女の舌が、オレの口を割って入ってくる。
@@ -15913,8 +15959,10 @@ ra01b_m
 [Kouji]: What do you mean by "how?"...
 //［ランファ］：あの時の事は、忘れろって‥‥。
 [Lanhua]: I thought you'd forgotten about that time....
-//［宏治］：んなこと言ったの、しょうがねぇなぁ、アイツ‥‥<$0C>ランファ？
-[Kouji]: Nn, I told you before, I can't help it, he...<$0C>Lanhua?
+//［宏治］：んなこと言ったの、しょうがねぇなぁ、アイツ‥‥
+[Kouji]: Nn, I told you before, I can't help it, he...
+//ランファ？
+Lanhua?
 //両目に涙をためたランファが、胸の前で両手を硬く握りしめ、首を小刻みに振りながらイヤイヤをしていた。
 With tears filling her eyes, Lanhua clasped her hands tightly before her and quickly shook her head.
 //［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。
@@ -16359,8 +16407,10 @@ bi06
 [Bianca]: Where it is, I could easily push it with the tip of my tongue!
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
 [Kouji]: (What, she could push it that easily with her tongue...?)
-//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥<$0C>な、なにをする！？
-[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...W-what are you doing?
+//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
+[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...
+//な、なにをする！？
+W-what are you doing?
 //bi06b
 bi06b
 //［ビアンカ］：んんっ‥‥！？
