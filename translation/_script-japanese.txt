@@ -362,7 +362,7 @@ s0401
 //この場にとどまって、あの足音の正体を確かめてやる。
 I'll stay here to uncover who's walking out there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
-After making this bold decision, strangely, I started becoming nervous. Embarrassingly, \nI could even hear my loud heartbeats reaching my ears.
+After making this bold decision, strangely, I started becoming nervous. Embarrassingly, I could even hear my loud heartbeats reaching my ears.
 //（靴底が、床を踏む音だろうか‥‥？）
 (Without doubt, this is the sound of shoes tapping on the floor...)
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
@@ -424,7 +424,7 @@ Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine 
 //見ていて、少しクラクラしてしまいそうだった。
 As I looked closer, she seemed quite disoriented.
 //下半身に目を移すとさらにドキッとした。左右両側に大きく切れ込んだスリットが、真っ白な太股を惜しげもなく露出している。
-I was all the more shocked when I saw the lower half of her body. Her pure white thighs\nwere shamelessly exposed through two large slits on either side of her uniform.
+I was all the more shocked when I saw the lower half of her body. Her pure white thighs were shamelessly exposed through two large slits on either side of her uniform.
 //［私］：（ナース‥‥‥‥だろうか？）
 [Me]: (Is she...a nurse?)
 //非現実的な場面に、これまた非現実的なナースの登場という訳だった。
@@ -442,7 +442,7 @@ Her big round eyes were moving gently in her sockets.
 //そう言いかけて、はたと気付いてしまった。私の名前‥‥‥‥？
 Saying that, I suddenly realized. My name...?
 //不思議なものだった。自分の身長や体重、趣味などは思い出すことができた。丁度資料を調べるように、自分のデータを読むことができるのだ。
-That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting\nsome sort of document, I could read my personal data.
+That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting some sort of document, I could read my personal data.
 //だが、名前の部分になると、ちょうどそこの文字の部分に、網が掛かって読めなくなるような、そんな感じだった。
 However, concerning my name, especially the way it was spelt, I couldn't read it. It was as if it was entangled deep in my memories.
 //［私］：私は‥‥私はいったい誰だ？
@@ -458,9 +458,9 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
-Before I realized, I had arrived in an utterly frigid place. I could see my breath\nbillowing out like smoke, and I was shaking like a leaf in the wind.
+Before I realized, I had arrived in an utterly frigid place. I could see my breath billowing out like smoke, and I was shaking like a leaf in the wind.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
-It seemed that I ended up in an unusual place while I was roaming the area,\nlooking for this girl called Lanhua.
+It seemed that I ended up in an unusual place while I was roaming the area, looking for this girl called Lanhua.
 //0040
 0040
 //xenon_13
@@ -522,13 +522,13 @@ Getting closer, I finally understood what was the source of that light.
 //0040b
 0040b
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
-Below on the side, a small console panel was blinking. You could hear \na strident sound intermittently stemming from it.
+Below on the side, a small console panel was blinking. You could hear a strident sound intermittently stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
 Crouching down, I peered at the monitor. On it the following characters were displayed:
 //　　　　　　　　　　　　　P.P.E.
 　　　　　　　　　　　　　P.P.E.
 //\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
-\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
+　　　　　　　　PSYCHIC - PROGRAM - ENCODER
 //\n\n\n　　　　　　　　　PSY encoder operating ...
 \n\n\n　　　　　　　　　PSY encoder operating ...
 //（サイキック‥‥
@@ -590,7 +590,7 @@ An alarm-like sound was echoing through the room. The sound was coming from belo
 //先ほどのパネルには、こう表示されていた‥‥。
 The panel was now displaying this message:
 //\n　　　　　　　　　　　Now decoding ...
-\n　　　　　　　　　　　Now decoding ...
+　　　　　　　　　　　Now decoding ...
 //　
 　
 //何か、マズいことでもしてしまったのだろうか‥‥？
@@ -684,7 +684,7 @@ We could accurately describe it as a peaceful afternoon.
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
 Far from the city's throng, this place was a comfy environment offered to delicate, mentally dependent people.
 //ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、あたりは概ね静かだ‥‥。
-The sunlight seeping through the blinds indicated good weather.\nAll that could be heard was the occasional sound of chirping birds...
+The sunlight seeping through the blinds indicated good weather. All that could be heard was the occasional sound of chirping birds...
 //［宏治］：どうしても、言わなくてはダメですか？
 [Kouji]: Do I really have to tell you ?
 //［涼子］：ええ。貴重なサンプル情報となるのですからね。
@@ -696,7 +696,7 @@ The sunlight seeping through the blinds indicated good weather.\nAll that could 
 //僕はゆっくりと、記憶の糸を辿りだした。
 I then started to unravel the threads of my memory.
 //夢というのは、見ているときはやけにクリアであるのに、起きてしばらくすると、あっという間に忘却してしまう、そんな性質がある。
-Dreams are fleeting by nature. They are so clear the moment you see them,\nbut as soon as you wake up, they vanish into oblivion.
+Dreams are fleeting by nature. They are so clear the moment you see them, but as soon as you wake up, they vanish into oblivion.
 //僕はできるだけ鮮明に、夢の内容を思いだそうと試みた‥‥。
 Endeavoring to remember my dream as distinctly as possible, I said:
 //［宏治］：まず僕は‥‥‥‥。
@@ -928,7 +928,7 @@ Again, Ryouko was staring far away, as if pondering over something.
 //［涼子］：どう、違うの？
 [Ryouko]: What was it, then?
 //なかなか上手く、言葉では伝わらないものだ。僕は、この感覚を伝える言葉を慎重に吟味した。
-It was something hard to express with words. That's why I strove to choose\nthe right words to convey the right feeling.
+It was something hard to express with words. That's why I strove to choose the right words to convey the right feeling.
 //［宏治］：何と言えばいいのか‥‥そう、やけに現実感を欠くような感じで、不安がヒシヒシと伝わってくるような‥‥。
 [Kouji]: How to put it... It was as if the place was lacking a sense of reality, making me really uneasy.
 //［涼子］：夢だもの、現実感を欠くのは、むしろ当然じゃなくて？
@@ -938,13 +938,13 @@ It was something hard to express with words. That's why I strove to choose\nthe 
 //何か、違うような気がした。
 Somehow, I felt it wasn't right.
 //確かに夢なのだから、現実感を欠くのは当然と言えば当然だった。だけど、その一言では済ませられない何かも、同時に感じていたのは確かなのだ。
-Of course it seemed natural that it lacked reality because it was a dream. But,\nsomething was keeping me from resigning myself to that.
+Of course it seemed natural that it lacked reality because it was a dream. But, something was keeping me from resigning myself to that.
 //［涼子］：いいわ、じゃあその先を‥‥。
 [Ryouko]: It's OK, tell me, what else happened?
 //［宏治］：えっ、えぇ‥‥。
 [Kouji]: Huh? All right...
 //思考を途中で中断された不愉快に、少しだけ襲われたが、僕は気を取り直して夢の続きを語りだした。
-Being interrupted during my thinking was rather uncomfortable, but,\nregaining my composure, I resumed recounting my dream.
+Being interrupted during my thinking was rather uncomfortable, but, regaining my composure, I resumed recounting my dream.
 //［宏治］：そうだ、その場で何か、かなり不愉快なことがあって‥‥。
 [Kouji]: Yeah. There was something really unpleasant in this place.
 //［涼子］：不愉快なこと？
@@ -958,7 +958,7 @@ Being interrupted during my thinking was rather uncomfortable, but,\nregaining m
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
 [Kouji]: I think it was an inorganic, grating, high-pitched sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
-[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\ndid you also hear an organic sound, resembling your heartbeat?
+[Ryouko]: Indeed, that must be unpleasant. But, at the same time, did you also hear an organic sound, resembling your heartbeat?
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
 [Kouji]: I think it was a vivid, low-pitched sound echoing in my head.
 //［涼子］：重低音‥‥ふむ。
@@ -1018,7 +1018,7 @@ I tried to talk about the girl I met in the corridor.
 //　◆ 切れ長の細い目をしていて‥‥。
 　◆ Her eyes were small and slanted...
 //［宏治］：大きなクリクリとした目をしていて、童顔‥‥というか、まだあどけない少女という感じでした。
-[Kouji]: Her eyes were big and round, with a somewhat child-like face.\nShe gave the feeling of a pristine maiden.
+[Kouji]: Her eyes were big and round, with a somewhat child-like face. She gave the feeling of a pristine maiden.
 //［涼子］：ふーん‥‥。
 [Ryouko]: Hmm...
 //［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
@@ -1034,17 +1034,17 @@ I tried to talk about the girl I met in the corridor.
 //［宏治］：あの‥‥何か？
 [Kouji]: Err... is something amiss?
 //涼子は、書き取っていたメモを睨んで、しばらく思案していた。おもむろに顔をこちらへ向けると、
-Ryouko, who was glaring at her notebook, seemed deep in thought for a moment.\nThen, she turned her gaze towards me and said:
+Ryouko, who was glaring at her notebook, seemed deep in thought for a moment. Then, she turned her gaze towards me and said:
 //［涼子］：‥‥宏治クン、どうもあなた、言っていることに矛盾があるようだわ。
 [Ryouko]: ...Kouji-kun, it seems there are inconsistencies in what you're saying.
 //［宏治］：そ、そりゃあ夢の中の事ですから‥‥。
 [Kouji]: W-Well, no surprise, that's a dream after all.
 //［涼子］：夢の進行に矛盾があっても構わないけど、分析するためのファクターに、矛盾があってはならないの。
-[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\nbut contradictions in its analytic factors can't be overlooked.
+[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression, but contradictions in its analytic factors can't be overlooked.
 //［宏治］：どういうことです？
 [Kouji]: What do you mean?
 //［涼子］：説明は難しいわね‥‥つまり、宏治クンが夢の中で女性として存在していても構わないのだけど‥‥。
-[Ryouko]: That's hard to explain. Look, it's not as if I care whether\nthere are women in your dreams...
+[Ryouko]: That's hard to explain. Look, it's not as if I care whether there are women in your dreams...
 //［涼子］：その事を退けるようなファクターがあってはならない、ということね。
 [Ryouko]: But there is no factor that can sweep these discrepancies away.
 //［宏治］：何のことだか、ちっともわからないんですけど‥‥。
@@ -1140,13 +1140,13 @@ With that thought, I said to Ryouko:
 //どこか、寒々としたところに行ったような記憶がある。そしてそこで、何かを見て、驚愕して‥‥‥‥。
 I think I landed somewhere in a bleak place. Then, I saw something really surprising...
 //妙に記憶があやふやだった。大事な部分だけ忘れ去っているのを認識する、そんな焦燥感に襲われていた。
-The contents of my memory were oddly vague. I felt frustrated when I realized\nI was completely forgetting only the most important parts.
+The contents of my memory were oddly vague. I felt frustrated when I realized I was completely forgetting only the most important parts.
 //［宏治］：思い出せません‥‥。
 [Kouji]: I can't remember...
 //［涼子］：そう、残念だわ。
 [Ryouko]: I see. That's a shame.
 //ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
-The sunlight seeping through the blind wasn't as vertical as before.\nThanks to that, I learned that quite some time had passed without me noticing it.
+The sunlight seeping through the blind wasn't as vertical as before. Thanks to that, I learned that quite some time had passed without me noticing it.
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
 Ryouko, putting her pen on top of her desk, somewhat sternly gazed at her notebook.
 //［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
@@ -1160,13 +1160,13 @@ I didn't really know how I was supposed to answer to that.
 //［涼子］：フフ、面白いわね、キミ。
 [Ryouko]: *chuckle* What a funny fellow you are.
 //涼子は薄く笑みをこぼすと、ゆっくり足を組み替えた。不本意ながら、目がそちらへ向いてしまう。
-Ryouko, showing a wry smile, slowly re-crossed her legs. Without meaning to,\nI turned my eyes towards them.
+Ryouko, showing a wry smile, slowly re-crossed her legs. Without meaning to, I turned my eyes towards them.
 //［涼子］：願望充足の評価は、夢を分析するときの、１つの指標の事よ。
 [Ryouko]: The assessment of wish fulfillment is one of the indicators used for dream analysis.
 //［宏治］：指標？
 [Kouji]: An indicator?
 //［涼子］：どんな夢にもね、一定以上の意味があり、心的価値が存在するという学説があるの。
-[Ryouko]: Whatever the dream, there is a theory that there is more than\none fixed meaning, that a psychological value also exists.
+[Ryouko]: Whatever the dream, there is a theory that there is more than one fixed meaning, that a psychological value also exists.
 //［宏治］：でも‥‥‥‥。
 [Kouji]: But...
 //どうも納得がいかない。僕の見た夢は、息苦しく、孤独感に苛まされ、ひしひしと恐怖が伝わってくるという感じだった。
@@ -1193,7 +1193,7 @@ Unexpectedly, I made a reluctant face. With a mischievous expression on her face
 //［涼子］：そう。例えば夢の冒頭‥‥確か、病室のようなベッドで１人きり‥‥。
 [Ryouko]: Yes. Let's take the beginning of your dream, for example. You were all alone on a bed in some kind of hospital room, weren't you?
 //［涼子］：それは、あなたの現状をあらわしているわ。確か昨日、恵さんが今日来るという連絡を受けたわよね？
-[Ryouko]: That reveals your current condition. If memory serves, Megumi\ntold you yesterday that she would be coming today, didn’t she?
+[Ryouko]: That reveals your current condition. If memory serves, Megumi told you yesterday that she would be coming today, didn’t she?
 //［宏治］：恵？
 [Kouji]: Megumi?
 //［涼子］：あなたの、ガールフレンドでしょう？
@@ -1205,19 +1205,19 @@ Today, she’ll come pay me a visit.
 //［宏治］：えぇ、確かに今日、恵が来ますけど‥‥。
 [Kouji]: Yeah, that's true, Megumi's coming here today, but...
 //［涼子］：それで、あなたの願望が強い孤独感となって現れたのね。
-[Ryouko]: Therefore, your desire was realized as this strong feeling of\nsolitude in your dream.
+[Ryouko]: Therefore, your desire was realized as this strong feeling of solitude in your dream.
 //［涼子］：外に出ると聞こえてきた心音のような音は、孤独なあなたの回帰願望をあらわしているのでしょう。
 [Ryouko]: The fact that you heard a sound resembling heartbeats from the outside, sounds quite like regression.
 //［宏治］：回帰願望？
 [Kouji]: Regression?
 //［涼子］：えぇ。母胎こそ孤独をいやす安息の地、という訳。
-[Ryouko]: Yes. A land of rest that soothes one's loneliness as one's\nmother's womb does.
+[Ryouko]: Yes. A land of rest that soothes one's loneliness as one's mother's womb does.
 //［涼子］：でも、そんな息苦しく孤独な夢に現れた１人の女性‥‥彼女と会ったとき、安堵にも似た感覚を抱かなかった？
-[Ryouko]: I mean, when you met that woman in this stifling dream of yours,\nweren't you embraced by a feeling similar to relief?
+[Ryouko]: I mean, when you met that woman in this stifling dream of yours, weren't you embraced by a feeling similar to relief?
 //［宏治］：言われてみれば‥‥。
 [Kouji]: Now that you mention it...
 //［涼子］：露出度も高いことを考慮すると、あなたのリビド（性衝動）も誘因するかもしれない。
-[Ryouko]: Taking into consideration the high degree of skin exposure,\nmaybe your libido (i.e. your sexual urges) worked as an incentive.
+[Ryouko]: Taking into consideration the high degree of skin exposure, maybe your libido (i.e. your sexual urges) worked as an incentive.
 //［宏治］：え？
 [Kouji]: Eh?
 //［涼子］：最近ガールフレンドと、していないんじゃなくて？
@@ -1226,7 +1226,7 @@ Today, she’ll come pay me a visit.
 [Kouji]: U-um...I’d rather not say, it’s a private matter.
 #I would like to know what someone thinks of my translation.
 //あまりに図星だったので、少々どもってしまった。それを見すかしたように、彼女は目を細めて薄く笑う。
-As she hit the mark, I stuttered a little. It seemed she hadn't missed that,\nas she was showing a faint smile.
+As she hit the mark, I stuttered a little. It seemed she hadn't missed that, as she was showing a faint smile.
 //［宏治］：（何でこうなるかなぁ‥‥。）
 [Kouji]: (How did it come to this?...)
 //［涼子］：フフ、このくらいにしておきましょうか、今日は。
@@ -1234,15 +1234,15 @@ As she hit the mark, I stuttered a little. It seemed she hadn't missed that,\nas
 //［宏治］：ええ‥‥。
 [Kouji]: Yeah...
 //僕は椅子を立ち上がった。膝が少し痛い。長い間、同じ格好で座っていたせいだろう。
-I stood up from the chair. My knees were a little sore, since I had sat\nin the same position for a long time.
+I stood up from the chair. My knees were a little sore, since I had sat in the same position for a long time.
 //ブラインドからもれる陽射しは、かなり長く、オレンジ色の光を室内に満たしていた。
-The sunlight seeping through the blind was now nearly horizontal.\nSunset rays filled the entire room.
+The sunlight seeping through the blind was now nearly horizontal. Sunset rays filled the entire room.
 //［宏治］：（今日は、ずいぶんと長いカウンセリングになったな‥‥。）
 [Kouji]: (Today, the counseling dragged on, didn’t it...)
 //［涼子］：そうそう、肝心な事を聞かなくては‥‥。
 [Ryouko]: Ah! I'd almost forgotten. I have something crucial to ask you.
 //涼子は真面目な表情に戻ると、僕の方を向いた。切れ長の目が、冷静に僕を射ていた。
-Ryouko, reverting to a serious mood, turned towards me. She looked at me\nserenely with her slit eyes.
+Ryouko, reverting to a serious mood, turned towards me. She looked at me serenely with her slit eyes.
 //［涼子］：最近、変わったこと、ある？　特に、メンタルな部分で‥‥。
 [Ryouko]: Have you noticed any changes lately? Particularly mental changes.
 //［宏治］：メンタルな部分、ですか‥‥。
@@ -1260,9 +1260,9 @@ Ryouko, reverting to a serious mood, turned towards me. She looked at me\nserene
 //［宏治］：そう、それ。
 [Kouji]: Yeah, that's it.
 //［涼子］：固有名詞の忘却は、老化の第１歩と言うわ。気を付けなさい。
-[Ryouko]: Forgetting proper nouns is said to be the first step towards senility.\nBe careful.
+[Ryouko]: Forgetting proper nouns is said to be the first step towards senility. Be careful.
 //［涼子］：フフ、またそんな顔をする。冗談よ、まだ若いんだから、沢山吸収して、沢山忘れなさい。
-[Ryouko]: *chuckle* You made that face again. It was a joke. You're still young,\nso you're free to let it go in one ear and out the other.
+[Ryouko]: *chuckle* You made that face again. It was a joke. You're still young, so you're free to let it go in one ear and out the other.
 //かなわないな、この人には‥‥。
 I’m not in the same league as this woman...
 //しかし最近、物忘れがひどいのは確かだった。どうも記憶がはっきりとしない、そんな事を考える事が、少なくなかった。
@@ -1270,9 +1270,9 @@ But it’s true that lately, I've been forgetting a lot of things. I've noticed 
 //何と言ったらいいのだろう‥‥。
 What should I say?
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
-I wasn't even sure about what happened a few hours ago. Nay, maybe even\nwhat happened a few minutes ago.
+I wasn't even sure about what happened a few hours ago. Nay, maybe even what happened a few minutes ago.
 //意外に考えていた時間が短くなかったようだ。涼子は心配そうに僕をのぞき込んできた。
-To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeking\nat me with a worried look on her face.
+To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeking at me with a worried look on her face.
 //［涼子］：どうしたの？　これから何をするか、もう忘れたとか？
 [Ryouko]: What is it? Have you already forgotten what you're supposed to do now?
 //［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。
@@ -1282,11 +1282,11 @@ To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeki
 //［宏治］：な、何言ってるんですか！
 [Kouji]: W-What are you talking about?!
 //僕は、少しムキになって強い口調で抗議した。涼子は僕の顔を見て、クスクスと笑っている。顔が赤らんでいたかもしれない。
-Losing my mind over something trivial, I protested with a harsh tone.\nRyouko was gazing at my face, giggling. I may have blushed.
+Losing my mind over something trivial, I protested with a harsh tone. Ryouko was gazing at my face, giggling. I may have blushed.
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
-I recalled that the other day, I had an unusual experiment performed on me by Ryouko,\nwho had claimed she was doing it to gather some data. Even though I was suspicious,\nI had agreed to lend a hand.
+I recalled that the other day, I had an unusual experiment performed on me by Ryouko, who had claimed she was doing it to gather some data. Even though I was suspicious, I had agreed to lend a hand.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-But I still couldn't see the point of it; weren't we supposed to do psychoanalysis?\nSo why a physical examination?
+But I still couldn't see the point of it; weren't we supposed to do psychoanalysis? So why a physical examination?
 //［宏治］：今日はもう、失礼して構いませんか？
 [Kouji]: Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。
@@ -1312,11 +1312,11 @@ Though we were still in the cold season...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥。
 Was it the air conditioning working the room, or the heating working in the corridor?
 //放課後、数時間が経過した校内‥‥そんな形容が当てはまる場所だ。
-The inside of a school a few hours after the students had left for the day...\nThat was the feeling exuding from this place.
+The inside of a school a few hours after the students had left for the day... That was the feeling exuding from this place.
 //［宏治］：今日はまた、一段と人の数が少ないな‥‥。
 [Kouji]: Again, there’s not a lot a people here today.
 //たまにすれ違う何人かの人たちは、午後の気だるさを表情に浮かべ、僕の傍らを寡黙に通り過ぎていく。
-From time to time, other people would wordlessly pass by me, with sluggish\n afternoon expressions plastered on their faces.
+From time to time, other people would wordlessly pass by me, with sluggish  afternoon expressions plastered on their faces.
 //こうして見ると、ごく普通の病棟の一風景という感じがする。
 This was the typical scene you would expect from an ordinary hospital.
 //［宏治］：しかし、それにしても‥‥。
@@ -1324,7 +1324,7 @@ This was the typical scene you would expect from an ordinary hospital.
 //僕は先ほどの、涼子先生の言った、あの言葉を思い起こしていた。
 The words Ryouko-sensei spoke before resurfaced within me.
 //『どんな夢にも一定以上の意味があり、心的価値が存在する‥‥。』
-『Whatever the dream, there is a theory that there is more than\none fixed meaning, that a psychological value also exists.』
+『Whatever the dream, there is a theory that there is more than one fixed meaning, that a psychological value also exists.』
 //‥‥‥‥‥‥‥‥。
 ‥‥‥‥‥‥‥‥
 //心的価値？
@@ -1342,11 +1342,11 @@ Well, it's no use thinking over it here.
 //このまま自室に戻って、少し休もう。
 I'll return to my room to get some rest.
 //僕の自室は３階にある。ここ２階から、階段１階分だけ上らなくてはならない。
-My room was on the third floor. As I was now on the second floor, I'll have to\ntraipse up just one floor using the stairs.
+My room was on the third floor. As I was now on the second floor, I'll have to traipse up just one floor using the stairs.
 //［宏治］：（疲れるな‥‥‥‥。）
 [Kouji]: (I'm pooped...)
 //他人に聞かれたら呆れられそうだったが、実際、今の僕は頭がぼやけていて、足どりも至極重い。
-If you were to ask someone, they would be surprised to find out that my thoughts\nwere blurred and my gait was extremely heavy.
+If you were to ask someone, they would be surprised to find out that my thoughts were blurred and my gait was extremely heavy.
 //まるで、自分の身体では無いような気がした。
 It was as if my body wasn't my own.
 //［宏治］：（催眠療法のせいかもしれないな‥‥‥‥。）
@@ -1354,11 +1354,11 @@ It was as if my body wasn't my own.
 //［宏治］：（しばらく自室で、横にでもなろう。）
 [Kouji]: (I'll just lie down for a while in my room.)
 //自室といっても、ごく普通の個人用の病室だ。僕はここ数週間、そこで寝泊まりしていた。
-Even though I say "my room", it's really just an ordinary individual hospital room.\nI've been staying there for a few weeks now.
+Even though I say "my room", it's really just an ordinary individual hospital room. I've been staying there for a few weeks now.
 //［宏治］：（そうだ、エレベータを‥‥‥‥。）
 [Kouji]: (Yeah, the elevator...)
 //幸い、エレベータは２階にとどまっていたようだ。上のボタンを押すと、ドアはすぐに開いた。
-Luckily, the elevator was on standby on the second floor. The door immediately\nopened the moment I pressed the "up" button.
+Luckily, the elevator was on standby on the second floor. The door immediately opened the moment I pressed the "up" button.
 //僕は頭を振りながら、重い足取りでエレベータに乗り込んで行った‥‥。
 Shaking my head, I got onto the elevator with heavy footsteps.
 //ロビーにでも行って、考えをまとめてみよう。
@@ -1376,7 +1376,7 @@ But then it crossed my mind that it was still better than not thinking at all.
 //ロビーは１階にある。ここ２階から、１階分だけ階段を利用しなくてはならない。
 The lobby was on the first floor. As I was now at the second floor, I'll go down just one floor using the stairs.
 //幸い、エレベータは２階にとどまっていたようだ。下のボタンを押すと、ドアはすぐに開いた。
-Luckily, the lift was on standby on the second floor. The door immediately opened\nthe moment I pressed the "down" button.
+Luckily, the lift was on standby on the second floor. The door immediately opened the moment I pressed the "down" button.
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
 Nobody was riding the lift. If you were to ride this lift when it is overcrowded, you would surely faint from asphyxiation.
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
@@ -1414,7 +1414,7 @@ This woman seemed a bit surprised when she saw me. But that expression only last
 //最後の「さん」のイントネーションが、少し妙な発音になっている。この子の特徴だった。
 Her tone when she was pronouncing "-san" was a bit strange, and was a special trait of hers.
 //静かな廊下、無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-In the silent corridor, an inorganic place, Mai’s figure was that of a sole\nblooming flower.
+In the silent corridor, an inorganic place, Mai’s figure was that of a sole blooming flower.
 //気分が低下していた僕にとって、ある種の清涼剤になったのは事実のようだった。
 In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：フフ、どうしたんですか？
@@ -1428,9 +1428,9 @@ In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：そう‥‥‥。
 [Mai]: I see...
 //彼女は舞という名前だ。それ以上の事は知らないし、教えてもくれない。
-She was called Mai. I didn't know anything about her beside that, nor did she\ntell me anything.
+She was called Mai. I didn't know anything about her beside that, nor did she tell me anything.
 //僕も、彼女が話さない以上、率先して聞き出そうとはしなかった。
-But it wasn't as if she was withholding that information; I merely wasn't taking\nthe initiative to ask her.
+But it wasn't as if she was withholding that information; I merely wasn't taking the initiative to ask her.
 //どこか陰があるような、憂いがかった女性だった。
 She seemed to have a hidden, troubled side somewhere.
 //［舞］：今日も？
@@ -1450,7 +1450,7 @@ I nodded to her. How many times had we had this same conversation?
 //［舞］：ええ‥‥。
 [Mai]: Yeah...
 //少し気のない声が、僕の耳に届いてくる。何かいいたげだ。
-Her somewhat halfhearted reply reached my ears. There was something else she\nwanted to tell me.
+Her somewhat halfhearted reply reached my ears. There was something else she wanted to tell me.
 //僕は黙って、舞の話の続きを待った。
 I kept silent, awaiting Mai’s next words.
 //［舞］：それよりも、宏治サン。
@@ -1480,7 +1480,7 @@ I glanced quickly at Mai's expression. Luckily, she didn't seem in a bad mood.
 //［舞］：夢にはメッセージが込められているんです、１つ１つに‥‥。
 [Mai]: Every dream holds a message...
 //［舞］：それを、ほとんどの人が気付かないまま、忘れ去ってしまうんです。
-[Mai]: Most people do not ever realize this, and their dreams end up sunken into\noblivion.
+[Mai]: Most people do not ever realize this, and their dreams end up sunken into oblivion.
 //［宏治］：僕の例の夢にも、何か理由があるってこと？
 [Kouji]: Do you mean there is some reason to my dream?
 //［舞］：はい、きっと、あります。
@@ -1508,13 +1508,13 @@ Afterwards, it was only me loitering in the long corridor, alone.
 //［宏治］：（部屋に、戻るかな‥‥。）
 [Kouji]: (I should go back to my room.)
 //頭も足も重かった。今は、ベッドの上に早く倒れ込みたいという欲求が、僕の身体を動かしている‥‥。
-My legs were as sore as my head. Right now, I was moving my body just so I could\ncollapse on my bed...
+My legs were as sore as my head. Right now, I was moving my body just so I could collapse on my bed...
 //1070
 1070
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
 The lobby was quiet. Instead of an air conditioner, an old-fashioned fan was whirling about on the ceiling.
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-An inorganic place with few people. Amidst all this, Mai’s figure stood out like\n a sole blooming flower.
+An inorganic place with few people. Amidst all this, Mai’s figure stood out like  a sole blooming flower.
 //いつの間にか、ロビーには僕らだけになっていた。
 Without me realizing it, we’d become the only ones left in the lobby.
 //後には、僕が１人だけ、シンと静まったロビーにたたずんでいるだけだった‥‥。
@@ -1822,7 +1822,7 @@ saya01
 //パラパラと音をたてて、ボタンが床に散らばっていった。
 With a clattering noise, the buttons scattered on the floor.
 //いわゆる立ちくらみに似ている。倒れる際、ブラウスに手を引っかけて、ボタンを全て外してしまったようだ。
-As if in a dizzy spell from standing up too quickly, so to speak, while collapsing,\nI'd grabbed onto her blouse, inadvertently tearing all its buttons off.
+As if in a dizzy spell from standing up too quickly, so to speak, while collapsing, I'd grabbed onto her blouse, inadvertently tearing all its buttons off.
 //saya01_m
 saya01_m
 //［沙夜香］：ひっどーい、このベストとブラウス、まだおニューだったのに‥‥。
@@ -1919,7 +1919,7 @@ A hot, stifling, boisterous place...I couldn't stay here for more than a few min
 //ふと、手前右側には、ドアらしきものを発見した。
 Suddenly, I discovered something resembling a door on my right.
 //ドアの前に立ってみるが、開く様子は微塵もない。どうしたものかと思案する私の目に、ドア横のレバースイッチが入ってきた。
-Standing in front of the door and examining it, I found it was sealed shut. As I tried to grasp the situation at hand,\nI noticed a lever beside the door.
+Standing in front of the door and examining it, I found it was sealed shut. As I tried to grasp the situation at hand, I noticed a lever beside the door.
 //もしかすると、これで‥‥？
 Maybe, if I...?
 //　◆ レバースイッチを入れてみよう。
@@ -2716,7 +2716,7 @@ s0105
 //［涼子］：私はこう見えても科学者よ、宏治クン。
 [Ryouko]: I'm looking at this as a scientist, Kouji-kun.
 //ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、辺りはおおむね静かだ‥‥。
-The sunlight seeping through the blinds indicated good weather.\nApart from the occasional chirping birds, it was silent all around us...
+The sunlight seeping through the blinds indicated good weather. Apart from the occasional chirping birds, it was silent all around us...
 //［涼子］：じゃあ宏治クン、今日は、その‥‥。
 [Ryouko]: Well, then, Kouji-kun, today, we'll...
 //［宏治］：先生。
@@ -3254,7 +3254,7 @@ Indeed, I might be able to see some people in the lobby. I slowly looked around 
 //インフォメーションボードには、現在の場所やら設備の詳細が記されている。あらためて見ると、意外に広い。
 The current location and facility details were recorded on the bulletin board. As I looked at it again, it felt quite wide.
 //３階建ての建物ではあったが、横への広がりが充実していた。この狭い国には、いささか相応しくない造りと言える。
-The third floor's buildings were displayed, but there was a substantial spread off to the side.\nIt was a little unfitting for a confined country like ours.
+The third floor's buildings were displayed, but there was a substantial spread off to the side. It was a little unfitting for a confined country like ours.
 //［恵］：宏治！
 [Megumi]: Kouji!
 //活発な声が僕の耳に響いてきた。あれ、この声は‥‥。
@@ -4369,8 +4369,8 @@ The smell of the unique reddish brown paper pierced my nose. I quickened my pace
 [Kouji]: In particular, this is...Hm?
 //最後の数ページに差し掛かったところから、私はその航海日誌を熟読し始めていた。
 As I got to the last few pages of the logbook, I started to read the records more carefully.
-//宇宙時間：１４５２：０１７０\n今日も１人倒れた‥‥これで３人目だ。このままでは、我が調査隊は全滅してしまう。ヤツが来てからだ‥‥第１次調査隊の生き残りである、あいつが‥‥‥‥。
-UNIVERSAL TIME: 1452:0170\nToday, another person fell. That makes 3. At this rate, we, the investigative team, will all be eliminated. It started when that person came...the survivor from the first investigative team...
+//宇宙時間：１４５２：０１７０ 今日も１人倒れた‥‥これで３人目だ。このままでは、我が調査隊は全滅してしまう。ヤツが来てからだ‥‥第１次調査隊の生き残りである、あいつが‥‥‥‥。
+UNIVERSAL TIME: 1452:0170 Today, another person fell. That makes 3. At this rate, we, the investigative team, will all be eliminated. It started when that person came...the survivor from the first investigative team...
 //［コウジ］：（第１次調査隊の、生き残り‥‥？）
 [Kouji]: (A survivor from the first investigative team...?)
 //後は、読解が困難な筆跡になっていて、読みとることができない。私は紙を傷めないよう慎重に、ページをめくっていった。
@@ -4684,13 +4684,13 @@ In the dark, cold rooftop, I pondered that...
 //あたりは静かだった。ここへやって来るまで、誰にもすれ違わず、動く者は僕以外にいそうもなかった。
 It was quiet around me. No one had passed by me on my way here, as if I were the only one moving around.
 //もともと、この医療センターは人が多い方ではなかった。時間を考えれば当然と言えるかもしれないが、受付に誰もいないというのはどういうことだろうか。
-There weren't a lot of people in this clinical center to begin with. If I consider the time,\nI might say it's natural, but even at the reception, no one was there.
+There weren't a lot of people in this clinical center to begin with. If I consider the time, I might say it's natural, but even at the reception, no one was there.
 //［宏治］：（夢の風景みたいだな‥‥。）
 [Kouji]: (This atmosphere feels like a dream...)
 //いや、これは現実だ‥‥現に、今こうして誰にも会わなかったじゃないか‥‥。
 No, this is reality...In the here and now, I've met nobody here...
 //そうだ、これが現実にあり得るのかという疑問は、現実からの逃避に過ぎない‥‥そう考えた時点で、この現状を否定している。
-That's right, to the question of whether this is reality or not, I can't run away from reality...\nThat thought alone dispelled the current confusion.
+That's right, to the question of whether this is reality or not, I can't run away from reality... That thought alone dispelled the current confusion.
 //僕はそう考えると、誰もいない廊下を歩きだした。
 As I thought, I walked down the empty corridor.
 //本当に静かだった‥‥静寂の音が聞こえてきそうな、そんな感じだ。
@@ -4798,7 +4798,7 @@ As I made that strange excuse, I gently put the receiver to my ear...
 //妙な雑音と共に聞こえてきたのは、恵の声だった。いったい、どこにいるんだろうか。
 I heard a strange noise along with Megumi's voice. What could be going on?
 //もっとも意外な相手に、やや安堵もする。不安が取り除かれた僕の声は、少し高揚していたかも知れない。
-I was relieved to hear such an unexpected voice on the other end.\nAs my uneasiness was abated, I may have sounded a bit uplifted.
+I was relieved to hear such an unexpected voice on the other end. As my uneasiness was abated, I may have sounded a bit uplifted.
 //［宏治］：雑音が多いけど、どこにいるんだい。
 [Kouji]: I hear a lot of noise on the other end. Where are you?
 //［恵］：この医療センターの中よ‥‥。
@@ -5004,7 +5004,7 @@ This place wasn't silent after all...
 //［宏治］：誰だ！？
 [Kouji]: Who's there?!
 //その時、機器類の陰から、素早くドアへ向かう人影があった。僕は無我夢中で、その影に向かって体当たりをしていた。
-Right then, from behind the machinery, there appeared a person's silhouette moving quickly toward the door.\nLosing myself in the moment, I turned toward that silhouette and bumped into it.
+Right then, from behind the machinery, there appeared a person's silhouette moving quickly toward the door. Losing myself in the moment, I turned toward that silhouette and bumped into it.
 //ドカッ！！
 *bump*!
 //［女の声］：いったーい‥‥ちょっとぉー手加減してよネ、宏治クン。
@@ -5290,7 +5290,7 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 //［宏治］：人間の意識を自由に操る、ということ？
 [Kouji]: You mean, altering human consciousness freely?
 //［涼子］：人間ではないわ。意識を操るの。意識を持つのは、何も人間だけではないでしょう？
-[Ryouko]: Not necessarily humans. We're talking about altering consciousness.\nBesides humans, is there anything that has consciousness?
+[Ryouko]: Not necessarily humans. We're talking about altering consciousness. Besides humans, is there anything that has consciousness?
 //［宏治］：に、人間だけじゃない‥‥。
 [Kouji]: S-so it's not just humans....
 //［涼子］：そう、例えば、蝶とかね‥‥‥‥。
@@ -5663,8 +5663,8 @@ It seemed the "second ship" was just an abbreviation for "second investigative t
 [Bianca]: I know everything...You were the very one who eliminated the second investigative team!
 //xenon_27
 xenon_27
-//\n\n\n　
-\n\n\n
+//
+
 //［コウジ］：い、今なんて‥‥。
 [Kouji]: Wh-what did you just say...
 //［ビアンカ］：し、しらばっくれて、どういうつもりさ。
@@ -5783,8 +5783,8 @@ I slowly turned the page. But, there was nothing more written. Is this the end..
 [Kouji]: (...Hm?)
 //変わりに、メモ用紙がしおりの様にページの間に挟まっていた。そこには、先程の落ちついた様子は微塵もなく、かなり慌てたような字で、こう書きなぐってあった。
 Instead, a page from a memo pad, used as bookmark, was stuck in the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
-//‥‥‥‥沙夜香　連絡先：法務局\n　　　　　　　　電話番号××××－××××－‥‥‥‥。
-......SAYAKA  CONTRACT: LEGAL AFFAIRS BUREAU \n PHONE NUMBER ××××－××××－......
+//‥‥‥‥沙夜香　連絡先：法務局 　　　　　　　　電話番号××××－××××－‥‥‥‥。
+......SAYAKA  CONTRACT: LEGAL AFFAIRS BUREAU PHONE NUMBER ××××－××××－......
 //はっと気付いた僕は、ポケットからしわくちゃになったメモ用紙を取り出した。丸い可愛らしい字で、同じ電話番号が記載されているのを確認する。
 I suddenly realized, and pulled out a crumpled memo pad page from my pocket. I confirmed that the same phone number was recorded in round, cute letters.
 //［宏治］：（沙夜香さん‥‥？）
@@ -6134,7 +6134,7 @@ The corridor was quiet...I couldn't see anyone around...
 //［コウジ］：あっ‥‥。
 [Kouji]: Ah-....
 //３つほど隣のドアに、吸い込まれるように入っていった人影がある。大きなレモンイエローのリボンに、ワインレッドの特徴的な衣服‥‥ランファだ。
-From three doors down, I saw the figure of someone seemingly being sucked in. A large yellow ribbon,\na characteristic wine red piece of clothing...It was Lanhua.
+From three doors down, I saw the figure of someone seemingly being sucked in. A large yellow ribbon, a characteristic wine red piece of clothing...It was Lanhua.
 //私は躊躇なく、彼女を追ってその部屋へ入っていった‥‥。
 Without hesitation, I followed her into that room....
 //［コウジ］：（おかしいな、確かこの部屋に‥‥‥‥。）
@@ -6292,7 +6292,7 @@ My tongue gently neared the area between her legs. Just from approaching, I felt
 //［ランファ］：熱いの‥‥コウジさん‥‥ランファ、熱い！
 [Lanhua]: So hot...Kouji-san, I'm so hot!
 //蜜は花芯から止めどもなく溢れ、股間を、そして太股を濡らしていく‥‥私はそれを舌ですくい取り、嚥下していった。
-Nectar was overflowing without end from the middle of her flower, and it seeped between her legs onto her thighs...\nI lapped up a lot of it with my tongue and swallowed it.
+Nectar was overflowing without end from the middle of her flower, and it seeped between her legs onto her thighs... I lapped up a lot of it with my tongue and swallowed it.
 //［ランファ］：コウジさん‥‥もう‥‥お願いです、コウジさん‥‥。
 [Lanhua]: Kouji-san...I want it...please, Kouji-san....
 //［コウジ］：わかったよ、ランファ‥‥。
@@ -6312,7 +6312,7 @@ A warm sensation enveloped my lower body. As Lanhua grinded her hips against min
 //［ランファ］：お願いです、コウジさん‥‥コウジさんも‥‥。
 [Lanhua]: Please, Kouji-san...You too....
 //遠慮がちに動いていた腰が、次第に速くなっていく。眉間にシワをよせて、一心不乱に腰を上下に動かすランファに合わせ、私も少し強すぎるくらい、腰を下から突き上げた。
-Her hips' slow, careful movements gradually quickened. Her eyebrows furrowed,\nand to meet Lanhua's unrelenting hip movements, I thrust upwards, perhaps a little too strongly.
+Her hips' slow, careful movements gradually quickened. Her eyebrows furrowed, and to meet Lanhua's unrelenting hip movements, I thrust upwards, perhaps a little too strongly.
 //［ランファ］：きゃぅっ！！　いいの‥‥いいのっ！！
 [Lanhua]: Kya-!! Yes...Yes-!!
 //［コウジ］：もっと、動いて！
@@ -6336,7 +6336,7 @@ As a spark went off in my head, I felt Lanhua's presence strongly...
 //［コウジ］：な、なぁ、ランファ‥‥。
 [Kouji]: H-hey, Lanhua....
 //おかしなものだが、彼女をより知ってしまった途端、以前ほど気さくに話しかけられなくなっていた。何故か、先程のことを強く意識してしまう。
-Strangely, before I could get to know her better, the earlier honest tone of the conversation had gone.\nFor some reason, I became quite conscious of our relations just now.
+Strangely, before I could get to know her better, the earlier honest tone of the conversation had gone. For some reason, I became quite conscious of our relations just now.
 //ランファの方は、別段今までと変わった感じはあまり無い。それがかえって、自分にとって面白くはなかった。
 My feelings towards Lanhua, however, hadn't changed at all. To the contrary, she wasn't very interesting to me.
 //［ランファ］：なんでしょうか？　コウジさん。
@@ -6410,7 +6410,7 @@ Why on earth were they screaming my name, and what were they doing?
 //映像はそれで終了した。
 The recording stopped there.
 //意味もない横線がモニター上を縦横無尽に走り回り、耳障りなノイズを発しはじめる。映像の記録が終わりに達したことをあらわしていた。
-Meaningless horizontal lines freely traveled around the monitor, and a tinnitus-inducing sound started to play.\nI became aware that I'd reached the end of the recording.
+Meaningless horizontal lines freely traveled around the monitor, and a tinnitus-inducing sound started to play. I became aware that I'd reached the end of the recording.
 //私はディスプレイから顔をあげると、ランファの方を見た。彼女はまだ、ディスプレイの方を無表情にじっと見つめている。
 I looked up from the display towards Lanhua. She was still staring blankly at the display.
 //［コウジ］：ランファ、これはいったい‥‥。
@@ -6466,7 +6466,7 @@ As she said "this", Far pulled out a gun hanging from her hip and patted it once
 //［コウジ］：ランファのことだ。
 [Kouji]: It's about Lanhua.
 //ランファには、不可解な部分が多すぎる。私には、彼女が何らかの情報を得ているのではないかと、ほとんど確信に近い自信を持っていた。
-There were too many things about Lanhua I didn't understand. She didn't tell me about the various situations at all,\nand held a near-absolute self-confidence.
+There were too many things about Lanhua I didn't understand. She didn't tell me about the various situations at all, and held a near-absolute self-confidence.
 //そして、例のマイクロ・ディスクに関する事も。
 Besides, there was the issue about the micro disc, too.
 //だが、意に反してファルの口から出た言葉は‥‥‥‥。
@@ -6630,7 +6630,7 @@ Far wordlessly piloted, and I wordlessly sat in the back seat. The air between u
 //私はふと、辺りを見回してみた‥‥。
 I glanced at my surroundings...
 //星の海、と形容するのがわかるような気がする。大小様々の星星が、目の前に存在していた。数はちょっとわからない。文字どおり天文学的数字だ。
-It was a veritable sea of stars. Big and small stars of all types twinkled before me.\nI couldn't count them all; the number was literally astronomical.
+It was a veritable sea of stars. Big and small stars of all types twinkled before me. I couldn't count them all; the number was literally astronomical.
 //湾曲してコクピットを取り囲んでいる硬質ガラスには、恒星などの光を直視しないよう、薄暗くフィルターがかかっていたが、周りで輝く星々をみることは十分可能だった。
 The curved hard glass surrounding cockpit dimly filtered the indirect star light, and I could clearly see the shining stars surrounding me.
 //［コウジ］：綺麗な星だな‥‥。
@@ -6698,7 +6698,7 @@ The planet was a damp, dark place...
 //ちょうど、夜の側に入ってしまったからだろうが、全体的に暗く、湿度が高い。
 We just entered the night side, so it was entirely dark, but still warm.
 //砂漠と見間違うほど、あたり一面に砂丘が広がっていた。砂丘のあちこちから、何かの建造物とおぼしい遺跡が突出しているのが確認できる。
-As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune.\nAll around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
+As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune. All around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
 //［コウジ］：（かつての文明のレベルは、それほど低くは無かったのかもしれないが‥‥。）
 [Kouji]: (The civilization that was once here, was probably pretty advanced...)
 //長い年月のあいだ、恒星の強い光と風雨にさらされて、もはや原型をとどめぬほど色あせ、風化していた。
@@ -7020,7 +7020,7 @@ mai04_m
 //［宏治］：ぷ、プロジェクタ？　人類の文明？
 [Kouji]: P-projector? Human culture?
 //［舞］：もうすぐ、私たちは人間という壁を１つ越えることになるわ。人間の定義自体が無意味な世界へ‥‥
-[Mai]: Very shortly, we will take one step beyond this wall called humanity.\nTo a world where the very definition of humanity is meaningless...
+[Mai]: Very shortly, we will take one step beyond this wall called humanity. To a world where the very definition of humanity is meaningless...
 //［宏治］：な、何を言ってるんだよ！？
 [Kouji]: W-what the hell are you talking about?!
 //［舞］：宏治サン、私は‥‥‥‥。
@@ -12679,7 +12679,11 @@ Huh? The electricity went out...
 [Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
+<<<<<<< HEAD
 //\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
+=======
+// 　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
+>>>>>>> b8e3f5a (Adding updated translation.)
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
 On a thick, heavy plate in front of the room before me, the words "VIP ROOM" were inscribed.
@@ -12689,7 +12693,7 @@ Just as I was coming over, it seemed to be empty, but...it might have only seeme
 If you ask me, I get the impression that the woman named Farnelia is not at all unreasonable. If I were an esteemed guest, I'd definitely complain that the food and shelter accommodations were inadequate.
 //傍らのコンパネに手を伸ばしてみる。赤く点滅しているボタンを押そうとして、はたと手を止めた。
 I reached for the control panel beside me. As I pushed the blinking red buttons, I suddenly stopped.
-//\n　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
+// 　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
 DOOR LOCK OK
 //どうやらこのボタンは、ドアのロックシステムだったらしい。さっき開かなかったのは、このためか‥‥？
 It seems these buttons controlled the door's locking system. Was it closed just now for a reason...?
