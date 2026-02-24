@@ -380,5 +380,32 @@ if __name__ == "__main__":
     # 6th pattern
     sixth_pattern = rb'\x0D\xFD.'
     sixth_path = temp_path.with_name(temp_path.name + '.S6')
-    process_file(fifth_path, translation_path, output_path, fifth_pattern)
+    process_file(fifth_path, translation_path, sixth_path, sixth_pattern)
+
+    # 7th pattern
+    seventh_pattern = rb'\x26\xFD.'
+    seventh_path = temp_path.with_name(temp_path.name + '.S7')
+    process_file(sixth_path, translation_path, seventh_path, seventh_pattern)
+
+    # 8th pattern
+    eigth_pattern = rb'\x01\xFD.'
+    eigth_path = temp_path.with_name(temp_path.name + '.S8')
+    process_file(seventh_path, translation_path, eigth_path, eigth_pattern)
+
+    # 9th pattern
+    nineth_pattern = rb'\x40\xFD.'
+    nineth_path = temp_path.with_name(temp_path.name + '.S9')
+    process_file(eigth_path, translation_path, nineth_path, nineth_pattern)
+
+    # 10th pattern
+    tenth_pattern = rb'\x0A\xFD.'
+    tenth_path = temp_path.with_name(temp_path.name + '.S10')
+    process_file(nineth_path, translation_path, tenth_path, tenth_pattern)
+
+    # 11th pattern
+    eleventh_pattern = rb'\x46\xFD.'
+    eleventh_path = temp_path.with_name(temp_path.name + '.S11')
+    process_file(tenth_path, translation_path, output_path, eleventh_pattern)
+
+
 
