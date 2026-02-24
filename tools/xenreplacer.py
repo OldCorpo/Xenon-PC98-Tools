@@ -46,6 +46,110 @@ def load_translations(filename):
 
     return translations
 
+"""
+Process by lines
+"""
+
+def process_line(line: bytes, translations: dict, base_pattern) -> bytes:
+    """
+    Processes one line:
+    - Starts from beginning of line
+    - Stops parsing at first terminator
+    - Splits parsed region by terminators
+    - Replaces Shift-JIS matches using translations dict
+    - Rebuilds line losslessly
+    """
+
+    # Terminators
+    terminator_pattern = re.compile(
+        rb'(' +
+        base_pattern +
+        rb'|\xFD.|\x00|\x0C|\x04|\x05)'
+    )
+
+    match = terminator_pattern.search(line)
+
+    # If no terminator found, write line untouched
+    if not match:
+        return line
+
+    # Split line into:
+    #   [processable_part] [terminator] [rest_of_line]
+    start_terminator = match.start()
+    end_terminator = match.end()
+
+    processable_part = line[:start_terminator]
+    terminator = line[start_terminator:end_terminator]
+    rest_of_line = line[end_terminator:]
+
+    # Now split processable_part by internal terminators
+    split_pattern = re.compile(
+        rb'(' +
+        base_pattern +
+        rb'|\xFD.|\x00|\x0C|\x04|\x05)'
+    )
+
+    parts = split_pattern.split(processable_part)
+    rebuilt = bytearray()
+
+    replaced_any = False
+
+    for part in parts:
+
+        if not part:
+            continue
+
+        # If it's a terminator, keep as-is
+        if (
+            re.fullmatch(base_pattern, part) or
+            re.fullmatch(rb'\xFD.', part) or
+            part in (b'\x00', b'\x0C', b'\x04', b'\x05')
+        ):
+            rebuilt.extend(part)
+            continue
+
+        # Try decoding as Shift-JIS
+        try:
+            decoded = part.decode("shift_jis")
+
+            if decoded in translations:
+                rebuilt.extend(
+                    translations[decoded].encode("shift_jis")
+                )
+                replaced_any = True
+            else:
+                rebuilt.extend(part)
+
+        except UnicodeDecodeError:
+            rebuilt.extend(part)
+
+    # If no replacements happened, return original line untouched
+    if not replaced_any:
+        return line
+
+    # Rebuild full line
+    final_line = rebuilt + terminator + rest_of_line
+    return bytes(final_line)
+
+def process_file_by_lines(input_file, translation_file, output_file, base_pattern):
+    translations = load_translations(translation_file)
+
+    with open(input_file, "rb") as f:
+        lines = f.readlines()
+
+    output = bytearray()
+
+    for line in lines:
+        processed = process_line(line, translations, base_pattern)
+        output.extend(processed)
+
+    with open(output_file, "wb") as f:
+        f.write(output)
+        
+
+"""
+Process by files
+"""
 
 def process_anomalous_string(data: bytes, translations: dict, base_pattern) -> bytes:
     """
@@ -252,24 +356,29 @@ if __name__ == "__main__":
     first_path = temp_path.with_name(temp_path.name + '.S1')
     process_file(input_path, translation_path, first_path, first_pattern)
 
-    # 2 pattern
+    # 2nd pattern
     #second_pattern = rb'\x04\xFD.'
     second_pattern = rb'\x04\xFD.'
     second_path = temp_path.with_name(temp_path.name + '.S2')
     process_file(first_path, translation_path, second_path, second_pattern)
 
-    # 3 pattern
+    # 3rd pattern
     third_pattern = rb'\x0F\xFD.'
     third_path = temp_path.with_name(temp_path.name + '.S3')
     process_file(second_path, translation_path, third_path, third_pattern)
 
-    # 4 pattern
+    # 4th pattern
     fourth_pattern = rb'\x14\xFD.'
     fourth_path = temp_path.with_name(temp_path.name + '.S4')
     process_file(third_path, translation_path, fourth_path, fourth_pattern)
 
-    # 5 pattern
-    fifth_pattern = rb'\x0D\xFD.'
+    # 5th pattern ## Process by lines only
+    fifth_pattern = rb'^\x00'
     fifth_path = temp_path.with_name(temp_path.name + '.S5')
-    process_file(fourth_path, translation_path, output_path, fifth_pattern)
+    process_file_by_lines(fourth_path, translation_path, fifth_path, fifth_pattern)
+
+    # 6th pattern
+    sixth_pattern = rb'\x0D\xFD.'
+    sixth_path = temp_path.with_name(temp_path.name + '.S6')
+    process_file(fifth_path, translation_path, output_path, fifth_pattern)
 
