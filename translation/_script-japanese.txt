@@ -791,8 +791,10 @@ Ryouko, showing a wry smile, was writing down my words on her notebook.
 [Kouji]: I think I investigated all over the room.
 //［涼子］：ふーん‥‥どんな部屋だったのかしら？
 [Ryouko]: Hmm... What kind of room was it?
-//［宏治］：確か、カーテンのような、ついたてがあって‥‥あっ！
-[Kouji]: If I remember correctly, there was a folding screen that looked like a curtain... Ah!
+//［宏治］：確か、カーテンのような、ついたてがあって‥‥
+[Kouji]: If I remember correctly, there was a folding screen that looked like a curtain...
+//あっ！
+ Ah!
 //［涼子］：どうしたの？
 [Ryoulo]: What is it?
 //［宏治］：そうだ、僕が病室だと思ったのは、多分あのついたてを見たからだと思います。
@@ -19484,3 +19486,94 @@ to06b
 [Tracy]: SEX SLAAAAAAAAVE-!!!
 //　　　　　　　　ＤＲＥＡＭ＿∞　‥‥　ＥＮＤ
 ＤＲＥＡＭ＿∞　‥‥　ＥＮＤ
+//［ランファ］：しろみ！　なんちってぇ〜。
+[Lanhua]: Shiromi! Just kidding~.
+//［ランファ］：えぇぇ〜！！
+[Lanhua]: Ehhh-!?
+//［ファル］：上から、８８−５９−８８よ。
+[Far]: From the top: 88-59-88.
+//［コウジ］：ぶ、ぶへぇぇ〜っくしょん！！！
+[Kouji]: At-aaatttt-achoo!!!
+//［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２〜３万本も焼き切るだけだ。
+[Kouji]: ... However, this won’t function normally. It would just burn out twenty to thirty thousand synapses.
+//［コウジ］：普段だったら、被験者の脳シナプスの２〜３万本は、焼き切れていただろうがな‥‥。
+[Kouji]: Under normal circumstances, twenty to thirty thousand of the subject’s brain synapses would have been burned out...
+//［コウジ］：フン、では私が当ててやろう。上から８５−６１−８６というところだな。
+[Kouji]: Hmph. Then I shall guess. From the top: 85-61-86, I’d say.
+//(［ファル］：どうやら、着いたようね‥‥。
+[Far]: It seems we’ve arrived…
+//ｯ宇宙時間：１４５２：０１７０
+Space Time: 1452:0170
+//［宏治］：フーーーッッ。ランファ、気づけよぉ〜。
+[Kouji]: Fuuuu-! Lanhua, snap out of it~!
+//?［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥
+[Lanhua]: No... please don’t say something so lonely...
+//［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２〜３万本、焼き切れる程度だから。
+[Ryouko]: It’s okaaaay, it’s fine. Even if it fails, it’ll only burn out about twenty to thirty thousand brain synapses.
+//オレは、あの涼子先生の奸計にはまり、脳のシナプスを２〜３万本焼ききって‥‥。
+I fell for that scheming Dr. Ryouko’s trap and ended up burning out twenty to thirty thousand of my brain synapses...
+//［右の女］：ああン、コウジ様、コウジ様ぁ〜。
+[Woman on the Right]: Ahh-Kouji-sama, Kouji-sama~!
+//［トレイシー］：お尻とアソコを隠す布地は、細いヒモのような布地しかない、見ているだけで興奮する下着。。
+[Tracy]: Underwear that barely covers the hips and down there, made of nothing but thin string-like fabric… just looking at it is enough to get you excited.
+
+//［涼子］：な、なによぉ〜。
+[Ryouko]: W-what is it~?
+//［舞］：ああん、お嫁に行けないぃ〜！
+[Mai]: Aaah, I won’t be able to get married~!
+//［涼子］：は、はい〜。
+[Ryouko]: Y-yes~.
+//［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２〜３万本、焼き切れる程度だから。
+[Ryouko]: It’s okaaay, it’s fine. Even if it fails, it’ll only burn out about twenty to thirty thousand brain synapses.
+//Lオレは、あの涼子先生の奸計にはまり、脳のシナプスを２〜３万本焼ききって‥‥。
+I fell for that scheming Dr. Ryouko’s trap and ended up burning out twenty to thirty thousand of my brain synapses...
+//［右の女］：ああン、コウジ様、コウジ様ぁ〜。
+[Woman on the Right]: Ahh-Kouji-sama, Kouji-sama~!
+//［ランファ］：えぇ〜っ。
+[Lanhua]: Eeeeh-!?
+//［沙夜香］：口で強がっても、こっちは正直よねぇ〜。
+[Sayaka]: You can act tough with your mouth, but this side of you is honest, isn’t it~?
+//［ランファ］：だから‥‥だから、捨てないで下さいぃ〜うるうるぅ。
+[Lanhua]: Th-that’s why… so please don’t throw me away… sniffle, teary-eyed…
+//［ランファ］：ふぇ〜〜んっ、コウジ様が、コウジ様が‥‥。
+[Lanhua]: Fweeeen-! Kouji-sama, Kouji-sama…
+//［恵］：そんなことって、ずいぶんよね〜。
+[Megumi]: That’s really awful of you, you know~.
+//［恵］：ばっかねぇ〜。
+[Megumi]: You idiot~.
+//［恵］：えぇ〜〜！？
+[Megumi]: Eeeeeh-!?
+//［ファル］：上から、８８−５９−８８よ。
+[Far]: From the top: 88-59-88.
+//ピュイィィ〜〜〜〜。
+*Pyuiiiiiiiiiiiii*
+//［沙夜香］：この装置を稼働させれば、シナプスの２〜３万本は焼き切れるそうじゃない。
+[Sayaka]: I hear that if this device is activated, it’ll burn out twenty to thirty thousand synapses.
+//［涼子］：沙夜香ぁ〜、役人だからって、許さないわよ！！　私の宏治様に‥‥。
+[Ryouko]: Sayaka-! Just because you’re a government official doesn’t mean I’ll forgive you!! Not when it comes to my Kouji-sama...
+//［涼子］：このぉ〜！　私の宏治様に、私のぉ！！
+[Ryouko]: You-! My Kouji-sama-he’s mine!!
+//［涼子］：くそっ、くそっ、このぉぉ〜！！
+[Ryouko]: Damn it, damn it, you-!!
+//［沙夜香］：痛い、痛いよぉ〜！
+[Sayaka]: It hurts, it hurts-!
+//［涼子・舞・恵］：きゃぁぁぁぁぁっ〜！！
+[Ryouko, Mai, Megumi]: Kyaaaaaa-!!
+//［女性一同］：きゃぁぁ〜、素敵ぃ、宏治様ぁぁぁっ！！
+[All the Women]: Kyaaa-! How wonderful, Kouji-samaaa!!
+//［宏治］：お、奥歯の横に、自爆装置ぃ〜！？
+[Kouji]: A s-self-destruct device next to my back tooth-!?
+//［宏治］：（奥歯の、外側かな‥‥ここか？　ツンツン。）
+[Kouji]: (On the outside of my back tooth, maybe… here? poke, poke.)
+//［ファル・ランファ・トレイシー］：えぇっ〜！？
+[Far, Lanhua, Tracy]: Eeeeh-!?
+//［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ〜！
+[Lanhua]: Aaaaaah! I spilled my miso soup~!
+//［ランファ］：もう、喉が張り裂けそうになりましたぁ〜、ケホケホッ。
+[Lanhua]: Geez, my throat felt like it was going to burst-cough, cough!
+//［ランファ］：あーん、ウソウソ、ウソですよぉ〜。
+[Lanhua]: Aah-just kidding, just kidding, it was a joke~.
+//　　　　　　　　電話番号××××−××××−‥‥‥‥。
+Phone number: ××××-××××-......
+//!唯一の‥‥‥‥
+The only one…
