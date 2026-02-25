@@ -37,3 +37,43 @@ python3 xenreplacer.py ../scripts_cc/S0306B.U.CC
 python3 xenreplacer.py ../scripts_cc/S0401.U.CC
 python3 xenreplacer.py ../scripts_cc/S0402.U.CC
 python3 xenreplacer.py ../scripts_cc/S0403.U.CC
+
+sleep 5
+
+python3 extra-xenreplacer.py ../scripts_merge/S00.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S00B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S00C.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0101.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0102.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0103.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0104.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0105.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0106.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0107.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0108.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0109.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0110.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0111.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0201.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0202.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0203.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0204.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0205.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0206.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0207.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0301.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0301A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0301B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0302A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0302B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0303A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0303B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0304A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0304B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0305A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0305B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0306A.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0306B.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0401.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0402.U.CC
+python3 extra-xenreplacer.py ../scripts_merge/S0403.U.CC
