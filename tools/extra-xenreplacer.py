@@ -131,48 +131,76 @@ def extract_shift_jis_string(data: bytes, start: int):
 def process_binary_stream(data: bytes, translations: dict) -> bytes:
     """
     Walk byte-by-byte through file:
-    - Detect Shift-JIS sequences
-    - Match against dictionary
-    - Replace safely
-    - Preserve leading garbage character
-    - Never overwrite unrelated bytes
+    - Only trigger on DOUBLE-BYTE Shift-JIS start
+    - Preserve any leading single-byte ASCII before it
+    - Replace only the detected SJIS block
+    - Continue scanning safely
     """
 
     output = bytearray()
     pos = 0
+    length = len(data)
 
-    while pos < len(data):
+    while pos < length:
 
         size = is_valid_shift_jis_char(data, pos)
 
-        # Not Shift-JIS → copy raw byte
+        # ----------------------------------------------------
+        # Not Shift-JIS at all → copy raw byte
+        # ----------------------------------------------------
         if size == 0:
             output.append(data[pos])
             pos += 1
             continue
 
-        # Extract candidate string
-        sjis_bytes, end_pos = extract_shift_jis_string(data, pos)
+        # ----------------------------------------------------
+        # IMPORTANT:
+        # Only start extraction if FIRST char is DOUBLE-BYTE
+        # ----------------------------------------------------
+        if size != 2:
+            output.append(data[pos])
+            pos += 1
+            continue
 
+        # ----------------------------------------------------
+        # Extract continuous Shift-JIS sequence
+        # ----------------------------------------------------
+        start = pos
+        pos += 2  # already confirmed first is double-byte
+
+        contains_double = True  # we already know first is double
+
+        while pos < length:
+            s = is_valid_shift_jis_char(data, pos)
+            if s == 0:
+                break
+            if s == 2:
+                contains_double = True
+            pos += s
+
+        sjis_bytes = data[start:pos]
+
+        # Safety check (should always be true)
+        if not contains_double:
+            output.extend(sjis_bytes)
+            continue
+
+        # ----------------------------------------------------
+        # Try decoding
+        # ----------------------------------------------------
         try:
             decoded = sjis_bytes.decode("shift_jis")
         except UnicodeDecodeError:
             output.extend(sjis_bytes)
-            pos = end_pos
             continue
 
-        # Debug print for detected strings
-        if verbose and len(decoded) > 10:
-            print("Detected:", decoded)
-
-        # Skip pure Latin strings
+        # Skip if no Japanese characters
         if not contains_japanese(decoded):
             output.extend(sjis_bytes)
-            pos = end_pos
             continue
 
         # ----------------------------------------------------
-        # Direct match
+        # Direct dictionary match
         # ----------------------------------------------------
         if decoded in translations:
             if verbose:
@@ -180,33 +208,15 @@ def process_binary_stream(data: bytes, translations: dict) -> bytes:
 
             new_bytes = translations[decoded].encode("shift_jis")
             output.extend(new_bytes)
-            pos = end_pos
             continue
 
         # ----------------------------------------------------
-        # Trimmed match (preserve leading garbage byte)
+        # No match → preserve original block
         # ----------------------------------------------------
-        if len(decoded) > 1:
-            trimmed = decoded[1:]
-
-            if contains_japanese(trimmed) and trimmed in translations:
-                if verbose:
-                    print(f"[MATCH-TRIMMED] {trimmed}")
-
-                # Preserve first original byte
-                output.append(sjis_bytes[0])
-
-                new_bytes = translations[trimmed].encode("shift_jis")
-                output.extend(new_bytes)
-                pos = end_pos
-                continue
-
-        # No match → copy original
         output.extend(sjis_bytes)
-        pos = end_pos
 
     return bytes(output)
-
+    
 
 # ------------------------------------------------------------
 # File Processor
