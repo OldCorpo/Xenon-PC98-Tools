@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+# Script to batch process scripts to scripts_merge
 
 python3 xenreplacer.py ../scripts_cc/S00.U.CC
 python3 xenreplacer.py ../scripts_cc/S00B.U.CC
@@ -40,6 +42,7 @@ python3 xenreplacer.py ../scripts_cc/S0403.U.CC
 
 sleep 5
 
+# Extra strings
 python3 extra-xenreplacer.py ../scripts_merge/S00.U.CC
 python3 extra-xenreplacer.py ../scripts_merge/S00B.U.CC
 python3 extra-xenreplacer.py ../scripts_merge/S00C.U.CC
@@ -77,3 +80,11 @@ python3 extra-xenreplacer.py ../scripts_merge/S0306B.U.CC
 python3 extra-xenreplacer.py ../scripts_merge/S0401.U.CC
 python3 extra-xenreplacer.py ../scripts_merge/S0402.U.CC
 python3 extra-xenreplacer.py ../scripts_merge/S0403.U.CC
+
+sleep 5
+
+# Hard to parse strings
+python3 hard-to-parse-strings.py ../scripts_merge/S0106.U.CC
+
+
+

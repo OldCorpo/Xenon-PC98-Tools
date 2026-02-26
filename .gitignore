@@ -18,5 +18,7 @@
 # leftover files
 /sandbox
 *.bak
-/scripts_steps/*.U.CC.S*
+/scripts_steps/*.U.CC.*
+/scripts_merge/*.orig
+/scripts_merge/*.manual
 
