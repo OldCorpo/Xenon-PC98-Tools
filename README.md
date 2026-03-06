@@ -5,44 +5,41 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 ### Advancement
 
     Translation : Roughly the 98.5% ~ 100% is translated (but may need style revisions and other things)
-    Insertion   : Latest patch covers 98.2% of the translation into the game files
+    Insertion   : Latest patch covers 99.8% of the translation into the game files, it should cover all storylines
 
 ### Workflow
 
 1. Update translation/_script-japanese.txt from Xenon-PC98-Translation (if needed)
 ```
-cp script-japanese-with-translation.txt translation/_script-japanese.txt
+./copy_translation.sh
 ```
-2. Use xenreplacer.py from the tools dir, to insert translations into the files. Example:
+2. Use merger.sh from the tools dir, to insert translations into the files. Example:
 ```
-xenreplacer.py ../scripts_cc/S0104.U.CC   
+./merger.sh
 ```
-3. Run 2_compress.bat from the tools dir, to prepare the files to be added to the image.
+3. Run compress.sh or 2_compress.bat from the tools dir, to prepare the files to be added to the image.
 ```
-2_compress.bat
+./compress.sh
 ```
-4. Run 3_insert.bat from the tools dir, to open the hdi inserter tool.
+4. Run insert.sh or 3_insert.bat from the tools dir, to open the hdi inserter tool.
 ```
-3_insert.bat
+./insert.sh
 ```
     This will bring up a directory and run DiskExplorer.
     Just click OK to the selection (Anex86 HDD) and drag and drop all the CC files from scripts_build into the window.
-5. Run on your favorite emulator or, use 4a_play_eng.bat and Neko Project will automatically run the game
-```
-4a_play_eng.bat
-```
-6. An option to use the original Japanese version for comparison using 4b_play_jap.bat is available.
+5. Test on your favorite emulator, Neko Project II is recommended to run the game
 
 
 
 ### Credits
 
-    OldCorpo - Translation, Tools, Editing
-       Xanderzone - Testing, Support
-          Fuzion - Testing, Support
+    OldCorpo - Translation completion, Tools
+        Xanderzone - Testing, Support
+           Fuzion - Testing, Support
 
           ~ additional translation ~
          HempTL - English translation
+            Asterix - Proofreading
 
        ~ based on the original work of ~
                   siriusxiv
