@@ -8,7 +8,7 @@ import shutil
 
 issue_string = {
     "今日も１人倒れた‥‥これで３人目だ。このままでは、我が調査隊は全滅してしまう。ヤツが来てからだ‥‥第１次調査隊の生き残りである、あいつが‥‥‥‥。":
-    "Another one fell today... That makes three. At this rate, our entire expedition team will be wiped out. Ever since he arrived... That guy, the survivor from the First Expedition Team..."
+    "Another one fell today... That makes three. At this rate,  our entire expedition team will be wiped out. Ever since he arrived... That guy, the survivor from the First Expedition Team..."
 }
 
 # ============================
