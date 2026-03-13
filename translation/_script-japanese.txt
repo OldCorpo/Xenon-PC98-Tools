@@ -5405,7 +5405,7 @@ No, this situation is the same as before......
 //［コウジ］：夢で見ていたことが現実になる事って、あると思うかい？
 [Kouji]: Do you think there have been cases where something seen in a dream becomes reality?
 //［トレイシー］：さぁ、どうでしょう。パラ・サイコロジーの観点からですと、それは予知とカテゴライズされると思いますが。
-[Tracy]: What about it? From the perspective of　　　　　　　parapsychology, I'd say that's categorized as a form of　　precognition.
+[Tracy]: What about it? From the perspective of　　　　　　　parapsychology, I'd say that's categorized as a form of　　 precognition.
 //［コウジ］：予知、か‥‥。
 [Kouji]: Precognition....
 //［トレイシー］：予知をしても、それを忘れている場合があるのです。
@@ -6245,7 +6245,7 @@ As I traced the inside of her thigh, I reached the fabric　 between her legs. I
 //［ランファ］：やさしく‥‥して下さい‥‥。
 [Lanhua]: Please...do it gently...
 //布地の隙間から、そっと中指を差し込んでみる。なま暖かい液で満たされた花弁は、私の指をきつく締め付けてきた。
-In the gap between the fabric and her skin, I gently　　　　inserted my middle finger. Her bare petals, saturated with warm fluid, tightened around my finger.
+In the gap between the fabric and her skin, I gently　　　　inserted my middle finger. Her bare petals, saturated with  warm fluid, tightened around my finger.
 //［ランファ］：あはぁぁ‥‥コウジさん、優しく‥‥して‥‥あぅっ！
 [Lanhua]: Ahaaa...Kouji-san, gentler...Ow-!
 //私は指をそこにあてがったまま、彼女の顔にキスをし始めた。
@@ -7079,7 +7079,7 @@ Ryouko revealed herself from the device's shadow and　　　　confronted Sayak
 //［涼子］：愚かな女性ね‥‥‥‥。
 [Ryouko]: You stupid woman...
 //［沙夜香］：涼子、あなたをＡ級犯罪者として逮捕、身柄を拘束します。
-[Sayaka]: Ryouko, I'm arresting and detaining you as a　　　Class:A Criminal.
+[Sayaka]: Ryouko, I'm arresting and detaining you as a　　　Class-A Criminal.
 //沙夜香は、懐から拳銃を取り出すと涼子に構えた。表情は厳しい。
 Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
