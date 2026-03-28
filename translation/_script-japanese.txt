@@ -2186,7 +2186,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
-[Far]: We're inside the {Nuz} star system, at the edge of　 the known universe. We're currently on standby above its　　primary star, of the same name.
+[Far]: We're inside the {Nuz} star system, at the edge of　 the known universe. We're currently on standby above its　　primary star, {Nuz}.
 //［コウジ］：‥‥‥‥‥！？
 [Kouji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
@@ -3679,13 +3679,13 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：あら、こんなところで何をしているの？
 [Far]: Ah, what are you doing here?
 //［ファル］：当惑の色を発色しているわね、どうしたの？
-[Far]: Your color has turned embarrassed. What happened?
+[Far]: I can see your aura turning brown. What’s wrong?
 //［コウジ］：この騒がしい音はなにさ。
-[Kouji]: What is this noise?
+[Kouji]: What is that noise?
 //［コウジ］：ふぅ‥‥。
 [Kouji]: Phew...
 //［ファル］：で、あなた、何をしているの？
-[Far]: Well, then, you. What are you doing?
+[Far]: Well then, what are you doing?
 //［コウジ］：な、何って‥‥救出されたという人を見に来たのさ。ランファが、行っていいって。
 [Kouji]: What do you mean...I came here to see the rescued  person. Lanhua said it was fine to come here.
 //［ファル］：私が言っているのは、そんなところに突っ立って、何をしてるのってこと。
@@ -3753,7 +3753,7 @@ With good timing, Far called out to me.
 //［コウジ］：いや‥‥全く駄目だ。
 [Kouji]: No...it's entirely useless.
 //［ファル］：そう‥‥落胆の色が、あなたから出ているわ。
-[Far]: I see...your color has turned disappointed.
+[Far]: I understand... your aura has turned a faded blue.
 //［コウジ］：‥‥なぁ、ファル。
 [Kouji]: ...Hey, Far.
 //［ファル］：なにかしら。
@@ -4165,7 +4165,7 @@ But then, what was she doing in the lower part of the engine...?
 //［コウジ］：（何か理由があるんだろう‥‥。）
 [Kouji]: (What reason could she have for that...?)
 //そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
-As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring  that matter to light.
+As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring　 that matter to light.
 //［コウジ］：誰か、人はいたかい？
 [Kouji]: Was anyone hurt there?
 //［ランファ］：いいえ、残念ながら‥‥。
@@ -4851,9 +4851,9 @@ But I couldn't hear Megumi's voice anymore. Only the　　　　inorganic dial t
 //［宏治］：（と、とにかく受話器を置いて‥‥。）
 [Kouji]: (In any case, I already put down the receiver...)
 //［宏治］：（そうだ、とにかく恵に会って、訳を聞けばいい。）
-[Kouji]: (That's right, I'll have meet with Megumi anyway tolearn what happened.)
+[Kouji]: (That's right, I'll have to meet with Megumi anywayto learn what happened.)
 //［宏治］：（でもアイツ、いったいどこから‥‥‥‥。）
-[Kouji]: (But what did she mean was coming out, and from　　where...)
+[Kouji]: (But where the hell did she...?)
 //［宏治］：（そういえば恵、この医療センターにいるって言っていなかったか‥‥？）
 [Kouji]: (Come to think of it, Megumi said she was at the　 clinical center, right...?)
 //［宏治］：（そうだ、確かそんなことを言っていた‥‥。）
@@ -4959,7 +4959,7 @@ On top of that, there are other symptoms I can't ignore....
 //例の悪夢だった‥‥‥。
 Like those nightmares....
 //涼子先生は気にする必要は無いと言っていた。特殊な環境に身を置くことによって、引き起こされる症状の１つに過ぎないと。
-Ryouko-sensei said not to worry about it. It's just one of  the symptoms that can occur from being in a unique environment.
+Ryouko-sensei said not to worry about it. It's just one of  the symptoms that can occur from being in a unique　　　　　environment.
 //僕の願望充足ではないかと‥‥‥‥。
 Even though it wasn't some sort of wish fulfillment to me...
 //だが今では、この現実よりもむしろ、夢の内容の方がクリアに覚えている事の方が少なくなかった。
@@ -5741,7 +5741,7 @@ s0109
 //どうやら、いつも僕がカウンセリングを受ける、診療室のようだった‥‥。
 Somehow, this is the clinic I always receive counseling in  ...
 //［宏治］：（そうか‥‥でも涼子先生、どうしたんだろう‥‥。）
-[Kouji]: (Oh, I see...but what happened to Ryouko-sensei...?)
+[Kouji]: (Oh, I see... but what happened to Ryouko-sensei　 ...?)
 //この風景は馴染み深いものとなっているが、涼子、というオブジェを取り除くだけで、これだけの違和感が襲ってくる。
 This environment was deeply familiar to me, but just the　　absence of Ryouko made me feel uneasy.
 //どうも妙な気分だった‥‥。
@@ -5763,7 +5763,7 @@ I sat in the grey chair that Ryouko-sensei always sat in.　 The backrest was fl
 //不思議と、『航海日誌』という単語が頭に浮かんだ。もちろん、航海日誌などというモノが、ここにある訳がない。
 Incredibly, the words "ship's logbook" floated into my head.Of course, there couldn't actually be a ship's logbook here.
 //いけないとは思いつつも、ページをめくってみる。
-While I thought "It can't be," I flipped through the pages.
+While I thought "it can't be," I flipped through the pages.
 //そこには小さな細かい文字で、診断書のようなものが書き記されていた。書いた人の几帳面な性格が想像される。
 There, in small writing, a medical certificate-like record  was penned. The person who wrote this must have been quite  careful, I thought.
 //［宏治］：涼子先生、かな‥‥？
@@ -5775,17 +5775,17 @@ As I skimmed through the pages, my eyes stopped places wherea certain term occur
 //マインドコントロールは、ドーパミン作用を著しく促進させ、間脳及び小脳を直接刺激することにより‥‥‥‥
 Dopamine usage increases the effectiveness of mind control  remarkably, by directly stimulating the diencephalon and　　cerebellum....
 //さらに、そこの部分から先に読み進めていく‥‥。
-From there, I continued reading previous entries....
+From there, I continued reading earlier entries....
 //しかし被験者の、身体的精神的な安全は保障されず‥‥‥‥。
 However, the safety of the subject's body and nervous systemare not guaranteed....
 //どうやら、マインドコントロールとやらの、機能と効能が記述されているらしかった。
 This seemed to describe the function and efficacy of mind　 control.
 //僕はゆっくりとページをめくる。しかしそこには、もう何も記されてはいなかった。ここで終わりか‥‥‥‥。
-I slowly turned the page. But, there was nothing more　　　 written. Is this the end....
+I slowly turned the page, but there was nothing more　　　  written. Is this the end....
 //［宏治］：（‥‥ん？）
 [Kouji]: (...Hm?)
 //変わりに、メモ用紙がしおりの様にページの間に挟まっていた。そこには、先程の落ちついた様子は微塵もなく、かなり慌てたような字で、こう書きなぐってあった。
-Instead, a page from a memo pad, used as bookmark, was stuckin the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
+Instead, a page from a memo pad, used as bookmark, was stuckin the middle of the book. There, something was written in  frantic handwriting, completely unlike the previous records.
 //‥‥‥‥沙夜香　連絡先：法務局 　　　　　　　　電話番号××××－××××－‥‥‥‥。
 ........ SAYAKA CONTRACT: LEGAL AFFAIRS BUREAU PHONE NUMBER ××××－××××－........
 //はっと気付いた僕は、ポケットからしわくちゃになったメモ用紙を取り出した。丸い可愛らしい字で、同じ電話番号が記載されているのを確認する。
@@ -5863,15 +5863,15 @@ My chest was throbbing. In this calm and quiet room, I couldhear my own heartbea
 //［舞］：宏治サンが、このあいだ話して下さった夢‥‥。
 [Mai]: Kouji-san, the dream you've been telling me about....
 //［舞］：マイクロディスクは、どうなりましたか？
-[Mai]: What happened to the micro recorder?
+[Mai]: What happened to the micro disc?
 //［宏治］：ま、マイクロ‥‥ディスク？
-[Kouji]: M-Micro...recorder?
+[Kouji]: M-Micro...disc?
 //なぜ、彼女がそんなことを、しかもいま聞いてくるんだろうか。
 Why would she mention that now of all times?
 //［舞］：お願いです‥‥思い出して下さい。
 [Mai]: Please...try to remember.
 //［宏治］：ま、マイクロディスクは‥‥再生できなかったような気がする。
-[Kouji]: I don't think I was able...to play back the micro  recorder.
+[Kouji]: I don't think I was able... to play back the micro disc.
 //［宏治］：そうだ、途中で意識が途切れて‥‥再び気付いた時には、もう既に目の前から消えていたんだ。
 [Kouji]: Right, my consciousness was interrupted in the　　 middle... when I came to again, it had already disappeared  before my eyes.
 //［宏治］：あっ、もちろん夢の中での事だけど‥‥変だよね、夢の中で意識が途切れるなんて‥‥。
@@ -5915,7 +5915,7 @@ I can't ask about something someone doesn't know about. It'spointless to ask her
 //［宏治］：うん、凄く変だ。
 [Kouji]: Yeah, really weird.
 //僕は思ったことをそのまま舞に言ってみた。舞は興味深そうに僕の言うことを聞いている。
-I told Mai my thoughts just the way I thought them. Mai　　 listened to my words, as if deeply entranced.
+I told Mai my thoughts as they came to me. Mai listened to  my words, as if deeply entranced.
 //［宏治］：舞さんは、この状況が変だとは、感じないのかい？
 [Kouji]: Mai-san, don't you feel this situation is strange?
 //［舞］：‥‥変というのは、正常ではない、という意味ですよね？
@@ -5971,7 +5971,7 @@ I probably didn't let any of these unreasonable emotions　  show through to Mai
 //［宏治］：だけど、その確からしさに、根拠なんてない‥‥。
 [Kouji]: However, that certainty is pretty baseless....
 //僕はかなり悲痛な顔をしていたのかもしれなかった。舞は僕の頬を両手でそっとはさむと、顔を近づけてきた。
-I must have looked quite in pain. Mai gently sandwiched my  cheeks between her hands and pulled my face close to hers.
+I must have looked quite pained. Mai gently sandwiched my　 cheeks between her hands and pulled my face close to hers.
 //mai05
 mai05
 //［宏治］：ま、舞さん‥‥‥‥。
@@ -6035,7 +6035,7 @@ As I kissed her small nose, and her lips once more, she　　 wrapped her arms a
 //［舞］：ん‥‥んんん‥‥‥‥。
 [Mai]: Mm...MMmmmmm....
 //積極的に舌を差し込んでくる舞はとっても情熱家だった。僕は小ぶりの胸を揉みしだき、自分の熱く猛りきったモノを彼女の太股に押しつける。
-With her aggressive tongue lashing, Mai was quite passionate. I rubbed her small breasts and placed my hot, furious　　 member between her thighs.
+With her aggressive tongue lashing, Mai was quite passionateI rubbed her small breasts and placed my hot, furious　　　 member between her thighs.
 //［舞］：あっ‥‥宏治サン、熱い‥‥すごく‥‥。
 [Mai]: Ah!-...Kouji-san, it's so...hot....
 //舞の舌をたっぷりと堪能すると、僕は首筋に移動した。耳たぶから喉元まで唾液で濡らし、舌をこすりつける。
@@ -6157,7 +6157,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［ランファ］：そんな、悲しそうな顔をしないで‥‥。
 [Lanhua]: Please, don't make that sad face....
 //［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
-[Lanhua]: when Kouji-san makes that sad face, I can't bear  it.
+[Lanhua]: when you make that sad face, I can't bear it
 //［コウジ］：君には、嫌われているのかと思っていたよ。
 [Kouji]: You must really hate it.
 //［ランファ］：そんなこと‥‥。
@@ -6205,7 +6205,7 @@ With my other hand, I started slowly rubbing her hip. As my fingers slowly crawl
 //固く閉じていた足の力を抜くと、ランファは私のされるがままになった。
 As she relaxed her tightly closed legs, Lanhua accepted whatI was doing.
 //背中の方から、指先を割れ目にそってなぞっていく。少し盛り上がった部分に達すると、ランファは一際大きな声を出した。
-My fingertips traced along her slit from front to back. As Ireached her slightly protruding bit, Lanhua shouted out loud
+My fingertips traced along her slit from front to back. As Ireached her slightly protruding bit, Lanhua shouted aloud.
 //［ランファ］：あぅ！　そ、そこは‥‥。
 [Lanhua]: Ah!! Th-that's my...
 //たっぷりと指の腹で、その部分をなぶる。ランファの息づかいはかなり荒くなってきていた。私は、胸の方も優しく愛撫していく‥‥。
@@ -6401,13 +6401,13 @@ Beside him, Bianca was also shouting towards something. I　 couldn't make out t
 //妙な映像だった‥‥恐らく、部屋の片隅にセットされた記録装置が捉えた映像だろうが、問題はその内容だ。
 It was a strange scene...Perhaps this was taken from a　　　recorder placed in the corner of the room, but the contents were more important.
 //船長らしき男と、ビアンカは、さかんに何か言い合っていた。だがしかし、彼らはお互いに言い合っていたのではない。
-The captain-like man and Bianca were actively yelling to　　something, but they didn't seem to be yelling to each other.
+The captain-like man and Bianca were actively yelling to　　something, but they didn't seem to be yelling at each other.
 //何もなく誰もいない空間に向かって、言葉を発しているようだった。辛うじて認識できるその言葉の内容を聞いて、私は愕然とした。
 Towards this space with no one and nothing there, words werebeing flung about. I could barely recognize the words being spoken, but I was stunned.
 //［コウジ］：私の、名前だ‥‥‥‥。
 [Kouji]: Th-they're yelling my name...
 //心臓の動悸音が頭の中でけたたましく反響し、自分の息づかいが、やけにうるさく感じる。じわりと眉から落ちてくる汗が、目にしみた。
-My heart pounded loudly in my head, and my breathing became quite noisy. Sweat dripped gently from my eyebrows down intomy eyes.
+My heart pounded loudly in my head, and my breathing became quite heavy. Sweat dripped gently from my brow down into my eyes.
 //いったい彼らは、私の名前を叫んで何をしているというのだ‥‥？
 Why on earth were they screaming my name, and what were theydoing?
 //映像はそれで終了した。
@@ -6597,7 +6597,7 @@ Far stared at me for a while, but she turned her heels,　　 opened the door to
 //［ファル］：トレイシー‥‥シャトルの発進準備をして頂戴。
 [Far]: Tracy...Please prepare the shuttle for liftoff.
 //［トレイシー］：あらあら‥‥２人で、ですの？
-[Tracy]: Ara ara...for two people, right?
+[Tracy]: Wh-wha-...for two people, right?
 //［ファル］：トレイシー、お願い、黙って用意をして頂戴‥‥。
 [Far]: Tracy, please, shut up and get it ready...
 //［トレイシー］：フフ、野暮は聞きっこなしですね。
@@ -13977,9 +13977,9 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：私がその役割を担っていたのだけど‥‥。
 [Far]: I was brought here to fulfill that role...
 //［宏治］：テレパスって、テレパシーが使える人？
-[Kouji]: A telepath, as in, someone who can use telepathy?
+[Kouji]: A telepath, as in, someone who can read minds?
 //［ファル］：そう。私は、人の感情を色によって判別する能力があるの。それも結構強い、ね。
-[Far]: That's right. I am someone who can determine the　　　color of someone's feelings. That's quite a strong ability,isn't it?
+[Far]: That's right. I am someone who can read the color of other people's auras to determine their feelings. That's　　quite a strong ability, isn't it?
 //［宏治］：色でねぇ‥‥。
 [Kouji]: The color, huh...
 //［ファル］：怒りは濃い赤、戸惑いはブラウン、悲しみはブルーという具合にね、感情によって発する色が違うのよ。
