@@ -36,10 +36,11 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
     OldCorpo - Translation completion, Tools
         Xanderzone - Testing, Support
            Fuzion - Testing, Support
+              dvo - Proofreading
+          Asterix - Some proofreading
 
           ~ additional translation ~
          HempTL - English translation
-            Asterix - Proofreading
 
        ~ based on the original work of ~
                   siriusxiv
