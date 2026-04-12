@@ -162,7 +162,7 @@ With a wry smile, I decided to solve the matter at hand.
 //しかし、あたりを探してみても、私の衣服が見つかる気配はないようだ。
 But, no matter how much I searched the room, there was no 　sign of my clothes. 
 //（しょうがない、これで応急処置とするか‥‥。）
-(Can't be helped, I'll have to take emergency measures...)
+(Oh well, I'll have to take emergency measures...)
 //私は手近のシーツを身体に巻き付けてみた。
 I took the bed sheets and wrapped myself in them.
 //少々動きにくかったが、もつれるほどではない。第一、素っ裸な姿を誰かに見られるよりは、ましだろう。
@@ -4099,7 +4099,7 @@ I operated the wall panel, and entered the engine room...
 //0070
 0070
 //［ファル］：あら、どうしたの、コウジ。何か、思い出したの？
-[Far]: Ara, what's going on, Kouji. Did you remember　　　　something?
+[Far]: Oh? What's going on, Kouji. Did you remember　　　　 something?
 //［コウジ］：いや、残念ながら全く‥‥。
 [Kouji]: No. I'm afraid nothing's come back...
 //［ファル］：そう‥‥‥‥。
@@ -6157,7 +6157,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［ランファ］：そんな、悲しそうな顔をしないで‥‥。
 [Lanhua]: Please, don't make that sad face....
 //［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
-[Lanhua]: when you make that sad face, I can't bear it
+[Lanhua]: when you make that sad face, I can't bear it.
 //［コウジ］：君には、嫌われているのかと思っていたよ。
 [Kouji]: You must really hate it.
 //［ランファ］：そんなこと‥‥。
@@ -6593,11 +6593,11 @@ Far shot me a dubious look. To someone at gunpoint, "don't  push yourself" must 
 //ファルはしばらく私の事を見つめていたが、きびすをかえすと格納庫のドアを開けて入っていった。
 Far stared at me for a while, but she turned her heels,　　 opened the door to the hangar, and entered it.
 //［トレイシー］：あら、お２人でどうなさったんですか？
-[Tracy]: Ara, what's going on with you two?
+[Tracy]: Oh my, what's going on with you two?
 //［ファル］：トレイシー‥‥シャトルの発進準備をして頂戴。
 [Far]: Tracy...Please prepare the shuttle for liftoff.
 //［トレイシー］：あらあら‥‥２人で、ですの？
-[Tracy]: Wh-wha-...for two people, right?
+[Tracy]: Wh-wha--...for two people, right?
 //［ファル］：トレイシー、お願い、黙って用意をして頂戴‥‥。
 [Far]: Tracy, please, shut up and get it ready...
 //［トレイシー］：フフ、野暮は聞きっこなしですね。
@@ -6725,17 +6725,17 @@ For a second, I was suffocated, and breathing became hard.  As I violently choke
 //目をつむったまま、無意識に手を動かし銃を捜してみる。見あたらない‥‥。
 As I squeezed my eyes shut, I blindly groped around for my  gun. I couldn't find it...
 //彼女がそれを奪い返し、私に向けるのは、想像に難くなく、おまけに私は身体がしびれて、しばらく動くことすらままならなかった‥‥。
-It wasn't hard for me to imagine that she confiscated it ,  and on top of that, my body was numb and I couldn't move fora while...
+It wasn't hard to imagine her snatching it back and pointingit at me. On top of that, my body had gone numb, I couldn't even move for a while...
 //［コウジ］：（どうやら、ここまでかな‥‥。）
 [Kouji]: (What do I do here...)
 //覚悟を決めて、目を開けてみると‥‥‥‥。
-As I awakened, I opened my eyes to look....
+I slowly opened my eyes...
 //［コウジ］：ふ、ファル‥‥‥‥。
 [Kouji]: F-Far...
 //［ファル］：ゴメンね、コウジ‥‥痛かった？
 [Far]: Sorry, Kouji...Did it hurt?
 //少しすまなそうな表情をしながら、ファルは私の身体を抱きかかえていた。意外に顔が近いので、少し焦ってしまう。
-Far made a somewhat apologetic expression as she helped me  up. Because she brought her face very close to mine, I was  slightly panicked.
+Far made a somewhat apologetic expression as she helped me  up. Our faces ended up closer than I expected, and it caughtme off guard.
 //［コウジ］：べ、別にその‥‥こっちこそ、ゴメン。
 [Kouji]: No, not really...I'm sorry, too.
 //［ファル］：いつまでも銃を突きつけられてるのって、ストレス溜まるのよね。
@@ -6743,27 +6743,27 @@ Far made a somewhat apologetic expression as she helped me  up. Because she brou
 //ファルはクスっと笑みをこぼしながら、傍らの手で銃を弄んでいた。少し心臓の動悸が速くなる。
 Far let out a giggle and played with the gun in her hand. Myheart beat a bit faster.
 //［ファル］：あら、少し恐怖の色が出たわね‥‥フフ、安心して。
-[Far]: Ara, you're turning a slightly frightened color ...  Hehe, calm down.
+[Far]: Oh, your aura is turning a blackish purple color ... Hehe, there's no need to be afraid.
 //［ファル］：ま、セーフティロックは掛かったままだったから、身の危険は感じなかったけど。
-[Far]: Well, the safety is on, so I didn't feel any danger  to our bodies.
+[Far]: You know, the safety lock was still engaged, so I　　didn't feel like there was any danger.
 //［コウジ］：そ、それって‥‥‥‥。
-[Kouji]: That, that's...
+[Kouji]: Th-that's...
 //［ファル］：さっきので、今までの事は帳消しにしてあげる。もう話してよ。何か、訳ありなんでしょう？
-[Far]: Because of that, I'll erase everything that happened up until now. Now, please tell me. What reason do you have  in mind?
+[Far]: Besides, I'll forget everything that happened up　　 until now. Now, please tell me. There's got to be some　　　reason behind it, right?
 //［コウジ］：信じてくれるのか‥‥？
 [Kouji]: Will you trust me...?
 //［ファル］：正直言うと、こうして話している今も、半信半疑なんだけどね。
-[Far]: Speaking honestly, even now, I only half-believe you.
+[Far]: To be honest, even now, I'm still not completely sure
 //［ファル］：でも、私に銃を突きつけてる間も、私の事を気遣ってくれてたし、酷いこともしなかった‥‥。
-[Far]: However, even when you were poking me with a gun, youcared about me, and you didn't do anything terrible to me　 ....
+[Far]: But even while you had a gun on me, you cared about  me, and you didn't did anything cruel...
 //［ファル］：だから‥‥‥‥。
-[Far]: That's why....
+[Far]: That's why...
 //［コウジ］：ゴメン、あのときは、ああする他は無かった‥‥。
 [Kouji]: Sorry, at that time, there was nothing else to do  ...
 //［ファル］：うん、わかってる。
 [Far]: Yes, I understand.
 //ファルは、少しだけあたりを見回した。どんよりと曇った空から、パラパラと雨が降り注ぎはじめている。
-Far glanced around. From the cloudy sky above us, rain started pitter-pattering down.
+Far glanced around. From the cloudy sky above us, rain　　　started pitter-pattering down.
 //［ファル］：どうするの、これから‥‥。
 [Far]: What do we do from here....
 //［コウジ］：どうするもこうするも‥‥私は行くために、ここへ降りてきたんだ。
@@ -6777,7 +6777,7 @@ Far glanced around. From the cloudy sky above us, rain started pitter-pattering 
 //［ファル］：わかったわ‥‥でも、気を付けなさい。銃は？
 [Far]: I understand...but please, take care. Your gun?
 //差し出された銃を私は押し返す。これから行くところは、恐らく銃など不要な気がしたのだ。
-I took back the gun she presented. I had a feeling I　　　　wouldn't need it from here to the place I had to go.
+I took back the gun she presented. I had a feeling I　　　　wouldn't need it where I was going.
 //［コウジ］：気持ちだけ、ありがたく受け取っておくよ。
 [Kouji]: Thanks, if only for the feeling of comfort.
 //［ファル］：ここで待っているわ。
@@ -6811,7 +6811,7 @@ The eerie, drab yellow light shined on my foot sunk in the  sand...it probably c
 //私は暗がりの中を慎重に進んでいった。床は意外に堅く、足音が洞窟内にコツコツと、寂しく響きわたる。
 In the darkness, I carefully proceeded. The ground was　　　unusually hard, and my sharp footsteps rang in the caves.
 //明らかに人工物とおぼしい瓦礫の中を、私は黙々と歩いていた。加工された木材や金属らしきものが、あちこちから飛び出している。
-I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out alloverthe place.
+I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out all　　over the place.
 //しかし、長い年月のあいだに風化したそれらは、私の靴底で簡単に砕け散り、砂と変わっていった。
 However, after weathering over many years, they easily　　　crumbled underfoot and became dust.
 //ふと立ち止まって脇を見ると、階段らしきものを発見した。手すりのようなものに、弦巻状の植物が複雑に絡み付いている。
@@ -6991,7 +6991,7 @@ As I turned around, the girl before me was......
 //後頭部に鈍い衝撃を感じながらも、僕は目に映った像を認識した‥‥。
 I felt a dull impact to the back of my head, and I　　　　　recognized the reflected image in my eyes...
 //消えていく意識の中で、僕は彼女の名前を呼ぶ‥‥。
-In my fading my consciousness, I called her name...
+As my consciousness faded, I called her name...
 //［宏治］：舞‥‥‥‥。
 [Kouji]: Mai......
 //宏治サン‥‥‥‥。
@@ -7325,7 +7325,7 @@ The most common personality she showed was a straightforwardsecretary. If I were
 //そして、大きなレモンイエローのリボンがトレードマークの、まだあどけなさの取れない顔つきの女は、ランファという。
 Also, the unbearably innocent woman with the trademark big  lemon-yellow ribbon is Lanhua.
 //この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
-She is this mobile ship {Quadra}'s engineer, navigator, and my slave.
+She is this mobile ship Quadra's engineer, navigator, and myslave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
 The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the {Quadra}.
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
@@ -7401,7 +7401,7 @@ s0202
 //［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
 [Ryouko]: Speaking as her older sister, please don't ignore that girl's feelings.
 //［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
-[Ryouko]: Hehe, I know you have a girlfriend. But still ... Ara-ara Kouji-kun?
+[Ryouko]: Hehe, I know you have a girlfriend. But still ... mmm Kouji-kun?
 //ドサッ。
 *Thump*
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
@@ -7489,7 +7489,7 @@ In this situation, I feel like a damn guinea pig...
 //以前にもこんなことがなかったか‥‥？　どうも、記憶がはっきりとしない‥‥。
 Haven't I felt this before...? Somehow, my memory is fuzzy  ...
 //ここは、《クワドラ》ではないようだが‥‥。
-This isn't the "Quadra", but...
+This isn't the Quadra, but...
 //　◆ とりあえず、この狭苦しい病室を出るとしよう。
 ◆ First, I should get out of this tiny, miserable sick ward.
 //　◆ 室内フォンを利用して、誰かを呼び出せないだろうか‥‥
@@ -7515,7 +7515,7 @@ The dial tone sounded several times, then the receiver on　 the other end was s
 //［コウジ］：私は宇宙海賊のコウジである。
 [Kouji]: I'm the galactic pirate Kouji.
 //［女の声］：あらあら、２０１号の患者さんね。
-[Woman's voice]: Ara ara, the patient in 201.
+[Woman's voice]: Oho, the patient in 201.
 //［コウジ］：いや、患者ではない。コウジだ。
 [Kouji]: No, I'm not a patient. I'm Kouji.
 //［女の声］：はいはい、しょうがないわね、涼子先生に言っておかなくちゃ‥‥ブツブツ。
@@ -7725,7 +7725,7 @@ The variety of assorted books ranged from neurology to　　　pathology, applie
 //ふと傍らにある本が目についた。専門書とは違ったが、分厚く、意味深である。
 Suddenly, one of the books nearby caught my eye. It was　　 different from the other specialty books. It was thick, so  it held much meaning.
 //中には、ドリームプログラムと命名された機械の設計図とその概要が網羅されていた。
-The contents comprised a blueprint for a machine called a " dream program " and its overview.
+The contents comprised a blueprint for a machine called a　 "dream program" and its overview.
 //速読を用いて、ものの１０秒ほどで読破する。
 Speed reading, it took me about 10 seconds to finish.
 //［コウジ］：ほぉ、なるほど。コンピュータ・ルームか‥‥。
@@ -7855,7 +7855,7 @@ s0203
 //妙な夢だった‥‥。
 What a strange dream....
 //私が、《クワドラ》で、貧弱な精神を持ちながら、シップ内をさまようのだ。
-On the Kuwadora, I floated through the ship's interior　　　cradling a weak spirit.
+On the Quadra, I floated through the ship's interior　　　cradling a weak spirit.
 //ファルネリアか‥‥‥‥彼女が、なぜここに‥‥？
 Farnelia...why is she here...?
 //［男］：これから、どうするんだい？
@@ -8345,7 +8345,7 @@ With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed w
 //［涼子］：うん。教えてくれたら、いいことさせて、あ・げ・る。
 [Ryouko]: Yeah. If you'll teach me how to fix it, I can showyou something...*good*.
 //［コウジ］：ほぉ、いいこと？
-[Kouji]: Ho-, something...good?
+[Kouji]: Ho--, something...good?
 //［涼子］：ねっ、だからさぁ‥‥。
 [Ryouko]: So what do you say...
 //［コウジ］：クックックッ‥‥。
@@ -9049,7 +9049,7 @@ r&m03c
 //［舞］：あン‥‥早くお姉さんみたく、大きくなりたい‥‥。
 [Mai]: Ahnn...I want it to quickly get as big as yours,　　 Onee-san...
 //［涼子］：あらあら、ここはどうしちゃったの‥‥。
-[Ryouko]: Ara ara, what's going on here...?
+[Ryouko]: Ohhh, what's going on here...?
 //くちゅっ。
 *schlick*
 //［舞］：だって、お姉さんが‥‥。
@@ -9293,7 +9293,7 @@ Slosh, slosh, slosh.
 //［涼子］：それでいいのよ‥‥後始末してあげる‥‥。
 [Ryouko]: That's good...I'll clean it up for you...
 //［涼子］：あらあら、舞の膣内にもちょっと射精しちゃったみたいね。精液を垂れ流しちゃって‥‥んぐんぐ‥‥ごくっ。
-[Ryouko]: Ara ara, you *did* cum a little in Mai's vagina.  The semen's dripping out...*slurp slurp*...*gulp*.
+[Ryouko]: Hm hm hm, you *did* cum a little in Mai's vagina. The semen's dripping out...*slurp slurp*...*gulp*.
 //［舞］：あっ‥‥涼子姉さん‥‥んっ‥‥。
 [Mai]: Ah-...Ryouko nee-san...Ng...
 //［涼子］：綺麗になったわ‥‥。
@@ -9359,7 +9359,7 @@ That's right, when we first met, she definitely said she　　liked the roof...
 //うむ、確かめてみる価値はあるな‥‥。
 Yes, it's certainly worth confirming...
 //［沙夜香］：あら、あなた‥‥。
-[Sayaka]: Ara, earlier...
+[Sayaka]: Oh, right...
 //［沙夜香］：さっきは、涼子先生に連れて行かれて、特別病棟にでも入れられたのかと思ったけど。
 [Sayaka]: You were following Ryouko-sensei into the special ward, weren't you?
 //［コウジ］：特別病棟？
@@ -9653,7 +9653,7 @@ ko01
 //［コウジ］：そのあいだ、ジェネレータのシンクロ時間の計算を算出するからだ。こちらの原始的な機構は、私の天才的頭脳をもってしても、なかなかこれが困難で‥‥。
 [Kouji]: Because in the meantime, the generator needs to　　calculate the synchronization time. Even with my genius　　 intellect, the primitive structures here are difficult to　 work with...
 //［宏治］：さっきから聞いていて疑問なんだが、お前はいったい今、どこにいるんだ？
-[Kouji]: I've had this question on my mind since a while agobut where even are you right now?
+[Kouji]: I've had this question on my mind for a while now  but where even are you right now?
 //［コウジ］：地面の上だ。
 [Kouji]: On the ground.
 //［宏治］：おい。
@@ -9683,7 +9683,7 @@ ko01
 //［宏治］：はぁ？
 [Kouji]: Huh??
 //［コウジ］：つまりだ、感性形式によるアポステリオリな経験現象としてではなく、理性的思考によってのみ、初めて捉えることができる究極の事象のことだ。
-[Kouji]: In other words, they're not a posteriori　　　　　 experiential phenomena dependent on the senses, but the　　 ultimate phenomena resulting from being able to think theoretically in the first place.
+[Kouji]: In other words, they're not a posteriori　　　　　 experiential phenomena dependent on the senses, but the　　 ultimate phenomena resulting from being able to think　　　 theoretically in the first place.
 //［宏治］：‥‥まぁいい、じゃあ、あり得るとしてだ。
 [Kouji]: ...OK then. Well, let me ask you a few things.
 //［宏治］：涼子先生はどうした？
@@ -10615,7 +10615,7 @@ I slowly looked around at my bound body. Only my head and　 neck were able to m
 //［コウジ］：ある。
 [Kouji]: I do.
 //［沙夜香］：あら、なにかしら。
-[Sayaka]: Ara, what could that be?
+[Sayaka]: Hmm, what could that be?
 //［コウジ］：フン、それはな‥‥‥‥。
 [Kouji]: Hmph, well, that's....
 //　◆ 貴様の目的は‥‥‥‥。
@@ -10941,7 +10941,7 @@ r&sb
 //［涼子］：三十路前にしてやっと伴侶を見つけたのにぃぃ‥‥。
 [Ryouko]: And I'd just found my partner before I'd hit my　 thirties...
 //［沙夜香］：あら、それは残念ね。年増の恨み辛みは恐いこと。
-[Sayaka]: Ara, how unfortunate. The grudges built up over　 years can be quite terrifying.
+[Sayaka]: Oh my, how unfortunate. The grudges built up over years can be quite terrifying.
 //［涼子］：くらえぇっ、悔しさ倍増ジェラシー・パーーーーッンチィィ！！
 [Ryouko]: Take this, my regrets doubled up, JEALOUSY　　　　PUUUUUUUUNCH!!
 //r&sc
@@ -11295,7 +11295,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：大丈夫に決まっているじゃない。私は天才科学者よ。
 [Ryouko]: I'm sure I'm OK. I am a genius scientist, after　　all.
 //［涼子］：あら、疑いの目ね、それは。
-[Ryouko]: Ara, you doubt me, don't you?
+[Ryouko]: Hmmm, you doubt me, don't you?
 //［宏治］：涼子先生もまだ若いんだから、男友達の１人や２人作って楽しみなよ。不健全だぜ、こんな‥‥。
 [Kouji]: Because Ryouko-sensei is still young, having one ortwo boyfriends would be fun. It's not healthy to be like　　this...
 //［涼子］：暗い部屋で１人寂しく？
@@ -11305,7 +11305,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：もうお肌の曲がり角は、とうに通りすぎてるわよ。最近、お化粧もあまりしなくなっちゃって‥‥。
 [Ryouko]: At every crossroads in my sex life, I've gone　　　straight. Recently, I've even stopped putting on makeup...
 //［涼子］：あら、こんなこと、宏治クンに言うことじゃないわね。フフ‥‥。
-[Ryouko]: Ara, this isn't the kind of thing I should be　　　talking to you about, Kouji-kun. Huhu....
+[Ryouko]: Hmm, this isn't the kind of thing I should be　　　talking to you about, Kouji-kun. Huhu....
 //［宏治］：暗い研究室に閉じこもって、いい歳した女性が‥‥。
 [Kouji]: Locked in a dark laboratory with a woman of　　　　suitable age...
 //［涼子］：歳のことは、言いっこ無し。これでも、ちょっとは気にしてるのよ。
@@ -11313,7 +11313,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：なんにしても、任せて頂戴。大丈夫だから。
 [Ryouko]: Whatever you want to talk about, just lay it on meIt'll be fine, after all.
 //［宏治］：そう言ってこのあいだなんか、雷が人間の精神に与える作用とかいって、僕を避雷針に縛り付けて‥‥。
-[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　lightning rod...
+[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　  lightning rod...
 //［涼子］：でも、無事だったじゃない。
 [Ryouko]: But, you're fine, aren't you?
 //［宏治］：それはオレが、何とか縄をほどいて逃げたからだ！　はぁ、はぁ‥‥。
@@ -11335,7 +11335,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：それ以外に聞こえましたか？
 [Kouji]: Is there anyone else who would have heard it?
 //［涼子］：あなたね、仮にも元担当医に対する態度じゃないわよ。
-[Ryouko]: You really shouldn't be so aggressive, even　　　　temporarily, to your attending physician.
+[Ryouko]: You really shouldn't be so aggressive, even　　　　in passing, to your attending physician.
 //［宏治］：ええ、ここに入院したおかげで、あやうく死にそうになりましたからね。
 [Kouji]: Yes, because I entered this facility, I almost died
 //［涼子］：大げさねぇ、ちょっと実験体になってもらった程度じゃない。
@@ -11403,7 +11403,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：おーっほっほっほ！
 [Ryouko]: O-hohoho!
 //［宏治］：涼子先生、さっきとキャラクタが違うぜ。
-[Kouji]: Ryouko-sensei, you're acting very different from　　before.
+[Kouji]: Ryouko-sensei, you're acting very differently from before.
 //［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
 [Ryouko]: Sorry, I tied you to a chair so you couldn't move your body.
 //［宏治］：こんな妙なヘルメットを被せて‥‥お、オレをどうするつもりだ。
@@ -11413,15 +11413,15 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：似たようなもんだろ！
 [Kouji]: You're acting exactly like one!
 //［涼子］：ゴメンねぇ、気さくに頼めるのって、宏治クンくらいしかいないんだもの。
-[Ryouko]: Sorry, it seems like relying on someone so amiablyisn't very like Kouji-kun, is it?
+[Ryouko]: Sorry, but you're pretty much the only one I can　 casually ask this kind of favor, Kouji-kun.
 //［宏治］：これが人にモノを頼むやり方か！？
-[Kouji]: Is this the way you treat people who rely on you?!
+[Kouji]: Is this really how you ask someone for a favor!?
 //［涼子］：大丈夫よ、舞も喜んで承諾してくれたわ。
-[Ryouko]: It's OK. Mai also happily accepted, after all.
+[Ryouko]: It's fine, even Mai was happy to agree.
 //［宏治］：ま、舞‥‥さん？
 [Kouji]: M-Mai...san?
 //［涼子］：ほら、あなたのすぐ斜め前にいるわ。
-[Ryouko]: There, she's diagonally across from you.
+[Ryouko]: Look, she's right there, diagonally ahead of you.
 //［涼子］：ね？　だから大丈夫よ。
 [Ryouko]: See? It'll be fine.
 //［宏治］：舞さん‥‥舞さん！
@@ -11495,11 +11495,11 @@ I slowly and gently opened my tightly shut eyelids....
 //［左の女］：トレイシーです。私はコウジ様の最も大切な‥‥‥‥ポッ。
 [Woman on the left]: I'm Tracy. I'm Kouji-sama's most　　　　important... *blush*.
 //［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
-[Woman on the right]: Lanhua too, Lanhua is Kouji-sama's　　important, irreplaceable woman.
+[Woman on the right]: Me too, I'm Kouji-sama's important,　 irreplaceable woman.
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
 [Tracy]: Lanhua, that's talking yourself up too much. I'm　　his number one....
 //［ランファ］：ランファだモン。
-[Lanhua]: No, it's Lanhua.
+[Lanhua]: No, I am.
 //［宏治］：あ、あのさ‥‥。
 [Kouji]: U-ummm....
 //［トレイシー・ランファ］：はい、なんでしょう？
@@ -11573,7 +11573,7 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　finish.
+[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　  finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
@@ -11613,7 +11613,7 @@ s0302b
 //　◆ なぜオレの事を知っているんだ？
 ◆ How do you know about me?
 //　◆ 《クワドラ》とはいったい何なんだい？
-◆ What is the "Kuwadora", exactly?
+◆ What is the Quadra, exactly?
 //　◆ ジェネレータって言っていたけど‥‥。
 ◆ You said something about a generator...
 //　◆ ファルネリアって、いったい誰のことさ。
@@ -11671,11 +11671,11 @@ s0302b
 //［宏治］：彼女は、ここで何をしているの？
 [Kouji]: What exactly does she do here?
 //［トレイシー］：こことおっしゃられますと、《クワドラ》でですか？
-[Tracy]: By "here", do you mean the Kuwadora?
+[Tracy]: By "here", do you mean the Quadra?
 //［宏治］：クワドラ？
-[Kouji]: Kuwadora?
+[Kouji]: Quadra?
 //［トレイシー］：《クワドラ》がなにか？
-[Tracy]: Do you know what the Kuwadora is?
+[Tracy]: Do you know what the Quadra is?
 //［宏治］：いやその、話の腰を折って悪かった。続けてくれ。
 [Kouji]: Oh, sorry to interrupt. Please continue.
 //［トレイシー］：彼女は主に機関部の整備やチェック、航行機器類を任されていますわ。
@@ -11709,21 +11709,21 @@ s0302b
 //［宏治］：んー‥‥。
 [Kouji]: Mmmm--...
 //［宏治］：《クワドラ》とはいったい何なんだい？
-[Kouji]: What is the "Kuwadora", exactly?
+[Kouji]: What is the Quadra, exactly?
 //［トレイシー］：と、おっしゃられますと？
 [Tracy]: Are you asking me?
 //［宏治］：さっき、その‥‥《クワドラ》がどうとか、そういう話をしただろう？
-[Kouji]: Earlier, you said something about that..."Kuwadora", didn't you?
+[Kouji]: Earlier, you said something about that... Quadra,  didn't you?
 //［トレイシー］：ええ、しました。
 [Tracy]: Yes, I did.
 //［宏治］：じゃあ《クワドラ》とはいったい何か？　という疑問を呈示させてもらおう。
-[Kouji]: Well, you brought up the question in my mind: what exactly is the "Kuwadora"?
+[Kouji]: Well, you brought up the question in my mind: what exactly is the Quadra?
 //［トレイシー］：スペックを言えばよろしいのですか？
 [Tracy]: Will it help if I talk about its specs?
 //［宏治］：‥‥ま、まあそうかな。
 [Kouji]: ...I don't know, but tell me anyway.
 //［トレイシー］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップです。
-[Tracy]: The "Kuwadora" is a Calvador-class light mobile　　ship that's been heavily tuned up into a high-speed mobile  ship.
+[Tracy]: The Quadra is a Calvador-class light mobile ship　 that's been heavily tuned up into a high-speed mobile ship.
 //［トレイシー］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Tracy]: It is 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［トレイシー］：火器はイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など一発ですわ‥‥あら、私としたことが。ホホホ。
@@ -11745,7 +11745,7 @@ s0302b
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
 [Tracy]: Joke? I have no use for a joke like that.　　　　　Kouji-sama, do you think you understand?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
-[Kouji]: Well, in any case, we're in the middle of the　　　"Kuwadora" space ship, so could it be possible that we're　　floating through outer space right now?
+[Kouji]: Well, in any case, we're in the middle of the　　　Quadra space ship, so could it be possible that we're　　　 floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
 [Tracy]: It's not just a possibility, it's exactly as you　　say.
 //［宏治］：‥‥質問を変えよう。
@@ -11895,9 +11895,9 @@ The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 If I said I wasn't confused, I'd be lying. However, my　　　confusion from earlier had dissipated.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
-Here, I am floating through space on a space ship, and it　　seems that it's a high class mobile ship carrying some sortof cannon weaponry.
+Here, I am floating through space on a space ship, and it　　seems that it's a high class mobile ship carrying some sort of cannon weaponry.
 //霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
-The generator uses Reiko energy or whatever to, in the end, make me some galactic pirate...
+The generator uses Reiko energy or whatever to, in the end, make me some kind of galactic pirate...
 //オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。
 With a surly look, I joined my hands behind my head, and　　fell back onto the bed.
 //しかしリアルと言えば、リアルだった。本当にここは、宇宙‥‥？
@@ -11929,7 +11929,7 @@ Wasn't I asleep for a while?... By my feet, there sat a　　　neatly folded ch
 //肌触りの良い衣服だった。セパレートタイプだったが、着てみるとツナギのように見えるデザインだ。
 The clothing feels good to the touch. It's a two-piece type,but as I'm wearing it, it looks like a boiler suit design.
 //オレは着替えをすますと、室内を見回した。別にこれといって変化はなかった‥‥‥‥。
-I finished changing clothes and surveyed the room. There　　didn't seem to be any change other than that change of　　　clothes...
+After I finished changing clothes, I looked around the room.There didn’t seem to be any particular changes...
 //　◆ ここでジッとしてるより、部屋を出よう。
 ◆ Let's not stare here forever and leave the room.
 //　◆ 状況がわかるまで、ここにいた方がいいだろう。
@@ -12057,7 +12057,7 @@ As I look more closely, there is a ladder. It seems to be　　going down. I hea
 //オレは手すりにつかまりながら、慎重に階段を下りていった。
 Gripping the handrail, I carefully descended the ladder.
 //［トレイシー］：あら、コウジ様、いかがなさいました？　ご用なら、お呼びして下されば‥‥。
-[Tracy]: Ara, Kouji-sama, what has happened? If you needed  me, you could have called me....
+[Tracy]: Oh my, Kouji-sama, what has happened? If you neededme, you could have called me...
 //［宏治］：トレイシーじゃないか。
 [Kouji]: Well, if it isn't Tracy.
 //［トレイシー］：ご気分は良くなられましたか？
@@ -12107,7 +12107,7 @@ My fist stung as though it had touched a hot fireplace pokerI was becoming numb 
 //本当にここは、宇宙‥‥？
 Am I really in space...?
 //いやまさか、そんな非科学的な。夢だ。そうだ、コブシを痛めるという夢を見ている最中なのだ、オレは。
-No, that would be too unscientific. It has to be a dream.　　That's right, I'm right in the middle of a dream where my　fist hurts.
+No, that would be too unscientific. It has to be a dream.　　That's right, I'm right in the middle of a dream where my　 fist hurts.
 //白い箱を抱えて、慌てて駆け寄ってくるトレイシーが視界に入った。彼女も、やっぱり夢の中の人物なのかな‥‥。
 As she carried a white box, a hurried, running Tracy enteredmy field of vision. So she's a character in my dream, huh...
 //［トレイシー］：さぁ、コウジ様、手をお出しになって下さい。
@@ -12187,7 +12187,7 @@ Tracy's expression lost its edge and slightly eased up. Agh,navigating this topi
 //［宏治］：んじゃ、そういうことで。
 [Kouji]: Mm, well, let's wrap this up.
 //［トレイシー］：あら、もう行ってしまわれるのですか？
-[Tracy]: Ara, do you have to get going already?
+[Tracy]: Oh? Do you have to get going already?
 //［宏治］：とりあえず、色々と見てみたいんでね。
 [Kouji]: In any case, I have a few things to check up on.
 //［トレイシー］：ここはコウジ様のシップです。遠慮なさらずに、存分に見て下さい。
@@ -12261,7 +12261,7 @@ ra06c_m
 //ランファはオレに気付くと、手を止めてすぐに顔を破顔させる。彼女は、嬉しさを全身で表現する女の子だった。
 As Lanhua noticed me, she stopped working and broke into a  broad smile. She exuded happiness from her entire body.
 //［ランファ］：コウジ様、ランファに会いに来て下さったんですねっ。
-[Lanhua]: Kouji-sama, did you came all this way just to see me?
+[Lanhua]: Kouji-sama, did you come all this way just to see me?
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
@@ -12341,7 +12341,7 @@ I gently reached into my pocket and pulled out a cloth　　　handkerchief, and
 //［宏治］：よし、これでＯＫだ。可愛くなった。
 [Kouji]: All right, this should be OK. You've become quite  cute.
 //［ランファ］：ら、ランファ‥‥ランファ、超カンゲキですぅ！
-[Lanhua]: L-Lanhua...Lanhua has been deeply inspired!
+[Lanhua]: I-I... I've been deeply inspired!
 //［宏治］：お、おい‥‥。
 [Kouji]: H-hey now...
 //オレがまごついたのは、ランファがいきなりオレの右腕をとって、両腕を絡めとったからだ。
@@ -12377,7 +12377,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //　◆ ランファは、ここで何を‥‥‥‥。
 ◆ What is Lanhua doing here...?
 //　◆ ファルネリアって女性は‥‥‥‥。
-◆ Where's that Farnelia woman doing...?
+◆ Where's that Farnelia woman...?
 //［宏治］：そういえば、ファルネリアって女性は？
 [Kouji]: Oh yeah, where's that Farnelia woman?
 //［ランファ］：ＶＩＰルームですけど‥‥でも、気を付けて下さい。
@@ -12393,7 +12393,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：そ、そんな胸をはだけなくてもいいよ。
 [Kouji]: Y-you don't need to expose that much of your chest to show me.
 //［ランファ］：あの部屋に行かれるのなら、気を付けてくださいね。
-[Lanhua]: If you're going towards that room, please, just　　take care.
+[Lanhua]: If you're going into that room, please, just take care.
 //［宏治］：そ、そんなに凶暴なの？
 [Kouji]: Sh-she's that ferocious?
 //［ランファ］：もうプリプリですぅ。お尻にもアザがあるんですよ、ホラ‥‥。
@@ -12455,7 +12455,7 @@ Huh? I did?
 //［宏治］：て、手塩‥‥？
 [Kouji]: L-love and effort?
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
-[Lanhua]: You could say it's the fruit of Lanhua and Kouji- sama's love.
+[Lanhua]: You could say it’s the fruit of our mutual love,  I suppose.
 //［トレイシー］：何が愛の結晶ですか！
 [Tracy]: What's the fruit of love here?!
 //［ランファ］：‥‥‥あっ、回線がオンになってるぅ。トレイシー、盗み聞きするなんて、フェアじゃないわっ！
@@ -12675,7 +12675,7 @@ Huh? The electricity went out...
 //［オレ］：そうだ。何でこんなモノがここに‥‥。
 [Me]: Yes. Why is this thing here...?
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい。これはランファとコウジ様の愛の結晶ですぅ。
-[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between Lanhua and Kouji-sama.
+[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between you and me, Kouji-sama.
 //［オレ］：あ、愛の‥‥なんだって？
 [Me]: T-the fruit...What do you mean?
 //［ランファ］：あぁぁっ！！
@@ -12691,7 +12691,7 @@ On a thick, heavy plate in front of the room before me, the words "VIP ROOM" wer
 //さっき来たときは、人が居ないようだったが‥‥もしかすると、単に無視されただけなのかもしれない。
 Just as I was coming over, it seemed to be empty, but...it  might have only seemed that way when I wasn't looking.
 //聞けば聞くほど、ファルネリアという女性は、偏屈というイメージしかわかない。賓客ならば、寝心地や食事に文句を言うなど礼を欠くにもほどがある。
-If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the food and shelter　　accommodations were inadequate.
+If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the accommodations were inadequate.
 //傍らのコンパネに手を伸ばしてみる。赤く点滅しているボタンを押そうとして、はたと手を止めた。
 I reached for the control panel beside me. As I pushed the  blinking red buttons, I suddenly stopped.
 // 　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
@@ -12751,7 +12751,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //　◆ あのジェネレータという装置は‥‥‥‥。
 ◆ That so-called generator...
 //　◆ 《クワドラ》というのは‥‥‥‥。
-◆ The "Kuwadora"...
+◆ The Quadra...
 //　◆ 大宇宙海賊というのは‥‥‥‥。
 ◆ That galactic pirate...
 //　◆ トレイシーという女性は‥‥‥‥。
@@ -12809,7 +12809,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：んー、考え出すときりがないな‥‥他の事を考えよう。
 [Kouji]: Mmm-, this could go on forever at this rate...let'sthink about something else...
 //［宏治］：《クワドラ》というのは、確かこの宇宙船の名前だったな。
-[Kouji]: The "Kuwadora" is definitely the name of this spaceship.
+[Kouji]: The Quadra is definitely the name of this spaceship
 //［宏治］：細かいスペックはどうでもいいが、彼女らに言わせてみれば、結構な宇宙船らしい。
 [Kouji]: The minor specs aren't that important, but from　　what the women have told me, this is a pretty fine ship.
 //［宏治］：で、オレはこのシップに乗って、宇宙を駆けめぐる大宇宙海賊、らしい。
@@ -12874,7 +12874,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：コウジ様、コウジ様って慕ってくれんのはいいけど‥‥。
 [Kouji]: Her constant praise for "Kouji-sama, Kouji-sama" isall right, but...
 //［宏治］：何だか精神年齢が低いような気が‥‥。
-[Kouji]: Her mental age seems rather low...
+[Kouji]: She seems immature...
 //［宏治］：知識年齢は、高いんだろうけどなぁ‥‥。
 [Kouji]: Even if her age of experience seems pretty high...
 //［宏治］：可愛いからいいか。
@@ -12918,7 +12918,7 @@ Immediately following in this direction, there was a frostedglass door. I could 
 //ふと横の壁を見ると、丸い小さな窓が付いていることに気付いた。洗面所に窓‥‥？
 As I glanced at the wall beside me, I noticed a small round window was placed there. A window in the washroom...?
 //小さく丸い窓は、縁を何かの金属で補強してあった。窓を良く見ると、かなり分厚い。１０センチはくだらないかも‥‥。
-The porthole was reinforced with some green metal. As I　　　inspected it more closely, it was really quite bulky.　　　Probably over 10 centimeters thick...
+The porthole was reinforced with some green metal. As I　　　inspected it more closely, it was really quite bulky.　　　 Probably over 10 centimeters thick...
 //さらにその先を見ると‥‥。
 What's more, as I looked through it...
 //［宏治］：何だ、あれは‥‥。
@@ -12932,7 +12932,7 @@ As I looked away from the window, I shook off some　　　　　unpleasant thou
 //オレは、足下に絡み付く布地に気付くと、それを拾い上げてみる。
 I noticed that my foot had gotten tangled in some cloth, so I picked it up and inspected it.
 //小さな布きれだったが、ゴムによる弾力に富んでいた。淡いピンク色の布地は、オレの手の中で思うように変形している。
-The cloth was small, but it was quite elastic. I unfolded　　the light pink cloth in my hands, and it changed into the　expected shape.
+The cloth was small, but it was quite elastic. I unfolded　　the light pink cloth in my hands, and it changed into the　 expected shape.
 //小さな穴が２つ、比較的大きな穴が１つ‥‥？
 Two small holes, and one larger one...?
 //女性用の下着だと気付いて良かった。危うく、匂いを嗅ぐところだった。
@@ -13016,7 +13016,7 @@ fa02_m
 //［宏治］：いやその‥‥少し、混乱していて。
 [Kouji]: Uh, no...I'm just a bit confused.
 //［ファル］：エンコーダも奪っておきながら‥‥これから私を、どうするつもり？
-[Far]: Since you robbed that encoder from me...what do you  plan to do to me?
+[Far]: Since you stole that encoder from me... what do you  plan to do with me?
 //［宏治］：‥‥話がよく見えないんだけど、誘拐ってのが本当なら、すぐに元の場所へ帰してあげるよ。
 [Kouji]: ...I don't quite get what you're talking about, butif this kidnapping business is serious, I'll return you to  your original place immediately.
 //［宏治］：どうもオレは、ここではリーダーらしいし、決定権はオレにあるみたいだからね。
@@ -13024,9 +13024,9 @@ fa02_m
 //［ファル］：ほ、本当？
 [Far]: R-Really?
 //［宏治］：監禁はやめる。このシップ‥‥の中では、行動の自由も保証する。こんな感じでいいかな？
-[Kouji]: I'll stop confining you here. ...In fact, I'll　　　guarantee your freedom to do as you please within this shiptoo. Are you OK with that?
+[Kouji]: I'll stop confining you here.... In fact, I'll　　　guarantee your freedom to do as you please within this ship too. Are you OK with that?
 //［ファル］：‥‥表情が澄んだグリーンだわ。嘘は吐いてないようね。
-[Far]: ...Your expression is a tranquil green color. You arenot telling a lie, are you?
+[Far]: ... Your expression is a tranquil green color. You　 aren't lying, are you?
 //［宏治］：何だよグリーンって。ま、嘘を吐くつもりはないよ。
 [Kouji]: What's that "green" supposed to mean? Well, I'm notlying to you.
 //［ファル］：‥‥じゃあ、どういうつもり？
@@ -13090,7 +13090,7 @@ fa02_m
 //［ファル］：フン、エッチ。
 [Far]: Hmph, pervert.
 //［宏治］：ちぇっ‥‥とにかく、向こうで着替えて来いよ。色々聞きたいこともあるし。
-[Kouji]: Tch... in any case, come change clothes. I have a  few things to ask you about.
+[Kouji]: Tch... in any case, get dressed. I have a few　　　things to ask you about.
 //［ファル］：フン‥‥。
 [Far]: Hmm...
 //［宏治］：凶暴なんだか、普通の女の子なんだか、よくわからないなぁ。
@@ -13112,7 +13112,7 @@ fa02_m
 //［宏治］：Ｇ２型って言われても‥‥どのくらいの大きさなんだい？
 [Kouji]: Even if you tell me it's a type G2...how big is it?
 //［トレイシー］：概算で、本《クワドラ》の、約７倍強というところです。
-[Tracy]: Roughly speaking, it's about 7 times the size of　　this Kuwadora ship.
+[Tracy]: Roughly speaking, it's about 7 times the size of　　our Quadra.
 //［宏治］：ずいぶん大きなやつだなぁ。旅客機か何かなんじゃないの？
 [Kouji]: It's quite large, then, isn't it? Is it some kind  of passenger ship?
 //［トレイシー］：いえ、この宙域は旅客路線から大きく外れています。
@@ -13285,11 +13285,11 @@ s0303a
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
 [Kouji]: You're crying, all of a sudden... Wh-what's come　　over you? 
 //［ランファ］：本当にランファのことを、忘れてしまったんですか？
-[Lanhua]: Did you really forget about Lanhua?
+[Lanhua]: Did you really forget about me?
 //［宏治］：い、いやなんというか、記憶が混乱していて‥‥いや記憶は混乱してないんだけど、状況に混乱していてね。
 [Kouji]: Th-that's putting it too harshly, my memories have been muddled up...well, not my memories, more like the　　　entire situation.
 //［ランファ］：よくわからないですけど、ランファが誰かってことですね？
-[Lanhua]: I don't understand what you mean, but do you mean who is Lanhua?
+[Lanhua]: I don't understand what you mean, but do you mean who am I?
 //［宏治］：そ、そう。（さっきから、そう言ってるんだけど‥‥。）
 [Kouji]: Yes, that's it. (I said that just earlier...)
 //［ランファ］：私はぁ‥‥。
@@ -13303,13 +13303,13 @@ s0303a
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
 [Kouji]: Uh, um...I didn't mean this exact location, I meantthis overall place.
 //［ランファ］：ここは、《クワドラ》です。
-[Lanhua]: This is the "Kuwadora".
+[Lanhua]: This is the Quadra.
 //［宏治］：くわ‥‥えっ？
-[Kouji]: Kuwa...Huh?
+[Kouji]: Kuaw...Huh?
 //［ランファ］：ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: It's the fruit of Lanhua and Kouji-sama's love.
+[Lanhua]: It's the fruit of our mutual love, Kouji-sama.
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: Well, it's the fruit of Lanhua and Kouji-sama's　　love.
+[Lanhua]: Well, it's the fruit of our mutual love,　　　　　Kouji-sama.
 //［宏治］：あっそう。
 [Kouji]: Ah, is that so?
 //［ランファ］：はい！
@@ -13365,7 +13365,7 @@ s0303a
 //［宏治］：なんだよ、それは。真面目に言ってよ。
 [Kouji]: What's with that response? Give it to me straight.
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
-[Lanhua]: It's the truth. But more recently, she seemed to  be making measurements about the generator... I don't know  what she did afterwards, though.
+[Lanhua]: It's the truth. But more recently, she seemed to  be taking measurements of the generator... I don't know whatshe did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
 [Lanhua]: Like I said, Kouji-sama isn't Kouji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
@@ -13379,13 +13379,13 @@ s0303a
 //［宏治］：も、もぐり‥‥うーむ。
 [Kouji]: A stranger....hmmm.
 //［ランファ］：《クワドラ》ですか？
-[Lanhua]: The "Kuwadora"?
+[Lanhua]: The Quadra?
 //［宏治］：そう。聞かない名前だけど‥‥。
 [Kouji]: Yes. I've heard the name before, but...
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
 [Kouji]: No, it's more like I've forgotten it, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
-[Lanhua]: The "Kuwadora" is the fruit of Kouji-sama's and　　Lanhua's love.
+[Lanhua]: The Quadra is the fruit of our love, Kouji-sama.
 //［宏治］：あ、愛の結晶‥‥？
 [Kouji]: T-the fruit of our love?
 //［ランファ］：そうです！
@@ -13397,7 +13397,7 @@ s0303a
 //［宏治］：う、うん。
 [Kouji]: O-OK.
 //［ランファ］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップなのれーす！
-[Lanhua]: The "Kuwadora" is a Calvador-class light mobile　　ship that's been tuned up a lot, and now it's a high-speed mobile ship!
+[Lanhua]: The Quadra is a Calvador-class light mobile ship  that's been tuned up a lot, and now it's a high-speed mobileship!
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: It's 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
@@ -13411,7 +13411,7 @@ s0303a
 //［ランファ］：はい。なんでしょうか？
 [Lanhua]: Yes, what is it?
 //［ランファ］：そうですね！　《クワドラ》は冗談って思わないと、他の海賊さんたちは、やってられないと思います。
-[Lanhua]: Of course! But the other pirates don't think of　　the "Kuwadora" as some joke.
+[Lanhua]: Of course! But the other pirates don't think of　　the Quadra as some joke.
 //［ランファ］：あたりきしゃりきの‥‥。
 [Lanhua]: That's exactly it....
 //［宏治］：‥‥もういい。
@@ -13521,11 +13521,11 @@ s0303a
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [Tracy]: She's become a little out of control, so I'm havingtrouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
-[Lanhua]: Is she acting violently? Just inject some　　　　　tranquilizer into her butt.
+[Lanhua]: Is she acting violently? Just inject a　　　　　　tranquilizer into her butt.
 //［トレイシー］：動物じゃないんですから、そんなことはできません。ランファ、あなた行ってちょうだい。
-[Tracy]: She's not some animal, so I can't do that. Lanhua, please go to her.
+[Tracy]: I can't do that, she's not an animal! Lanhua, couldyou go?
 //［ランファ］：な、何よそれぇ‥‥看護はトレイシーの役目じゃない。
-[Lanhua]: Why meee...isn't nursing *your* duty, Tracy?
+[Lanhua]: Why meee... isn't nursing *your* duty, Tracy?
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
@@ -13573,13 +13573,13 @@ Where am I headed this time....
 //ゴキッ！！
 *BUMP*!!
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛かった‥‥無茶苦茶、痛い。
-As I felt tears roll down my cheek, I kneeled down and　　　cupped my hand around it. It hurt... an awful lot.
+As I felt tears roll down my cheek, I knelt down and nursed my fist. It hurt... an awful lot.
 //［ランファ］：あっ、コウジ様ぁ！
 [Lanhua]: Ah-, Kouji-sama-!
 //［宏治］：やぁ‥‥。
 [Kouji]: H-hey...
 //［宏治］：爆発するとか、以前言っていたじゃないか。
-[Kouji]: You warned me before about her explosive temper,　　didn't you?
+[Kouji]: You warned me before about your explosive temper,  didn't you?
 //［宏治］：まぁ、いいか‥‥それよりもさ、ランファ。
 [Kouji]: Well, anyway...ignoring all that, Lanhua...
 //［宏治］：聞きたいことがあるんだ。
@@ -13611,7 +13611,7 @@ As I felt tears roll down my cheek, I kneeled down and　　　cupped my hand ar
 //［宏治］：さっきも言ったろう？　そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんだって。
 [Kouji]: I said it earlier, didn't I? There's bound to be a few people who would use that Encoder for evil means.
 //［宏治］：うん、とりあえず君には悪いけど、破棄させてもらう。あんなの、百害あって一利無しだ。
-[Kouji]: Yes, in any case, even though it does you no favors, I let it be destroyed. That kind of thing does nobody any good.
+[Kouji]: Yes, in any case, even though it does you no favorsI let it be destroyed. That kind of thing does nobody any　 good.
 //《何たる無様な醜態だ‥‥。》
 "What an uncouth, disgraceful sight..."
 //［宏治］：えっ？　何か言った？
@@ -13689,13 +13689,13 @@ Following suit, Far shyly intertwined her tongue with mine. I unabashedly wrappe
 //［ファル］：んあぁぁ、コウジ‥‥無茶苦茶にしてっ！
 [Far]: Mmaahhhh, Kouji...you're so rough-!
 //オレはファルの舌をからめ取り、吸い取り、ねぶり、唾液を彼女の口腔へ流し込みながら、右手を彼女のふくよかな胸に、左手を尻の割れ目に差し込んだ。
-As I entwined, sucked, and licked Far's tongue, and as　　　saliva dripped from her mouth, I groped her plump breasts　　with my right hand and slipped my left hand into her slit　from behind.
+As I entwined, sucked, and licked Far's tongue, and as　　　saliva dripped from her mouth, I groped her plump breasts　　with my right hand and slipped my left hand into her slit　 from behind.
 //［ファル］：ひっ‥‥そ、そこは‥‥ダメよ、ダメ‥‥。
 [Far]: Hh--N-not there...
 //ファルは、尻を振りながらイヤイヤをしたが、そのたびにオレの指は、彼女の割れ目の奥深くへと侵入していった。
 Though Far shook her butt in defiance, right then,　　　　　I inserted my finger deep into her crack.
 //震えているのがわかる。尻の割れ目に這わせる指が、柔らかい蕾の上を通る度に、ファルは電気が流れたように身体を硬直させた。
-I felt her quivering. As my finger in her slit ran gently　　over her bud, I made Far's body jolt upright, as if　　　　electrified.
+I felt her quivering. As my finger in her slit ran gently　　over her bud, I made Far's body jolt upright, as if　　　　 electrified.
 //［ファル］：あぁぁ、お願い‥‥優しくしてね‥‥。
 [Far]: Ahhhh, please...be gentle....
 //［宏治］：こんなもん？
@@ -13897,7 +13897,7 @@ fa08
 //オレは夢中でアソコから引き抜くと、ファルの顔の上に馬乗りになり、荒い息を吐く可愛らしい口に、オレのモノを突き入れた。
 As I pulled out from her wondrous pussy, I straddled over　　Far's face, and thrust my dick into her roughly breathing　mouth.
 //舌をだらしなく垂れさせ、恍惚とした表情をしているファルの顔が美しく歪む。眉間にシワをよせ、それでもオレのものを夢中で吸い出した。
-With her tongue hanging lazily out, Far's rapturous　　　　　expression was distorted beautifully. With furrowed brow,　she blew my whistle wondrously.
+With her tongue hanging lazily out, Far's rapturous　　　　　expression was distorted beautifully. With furrowed brow,　 she blew my whistle wondrously.
 //［ファル］：出して‥‥あぁぁ、出して！　コウジのミルクを沢山、私の顔に‥‥‥‥
 [Far]: Cum... Ahh, cum for me! I want a lot of Kouji's man  milk all over my face...
 //うっ！！
@@ -13935,7 +13935,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：さっきも、そんなことを言っていたわよね。よく理解できなかったけど。
 [Far]: Earlier, you said exactly that, though I couldn't　　understand it then, either.
 //［宏治］：じゃあ、こうしよう。宇宙海賊コウジとやらは、トイレで転んで頭を打って、記憶が喪失状態である。
-[Kouji]: Well, let's try this: The galactic pirate or　　　　whatever Kouji slipped and hit his head while in the toiletand lost his memory in the process.
+[Kouji]: Well, let's try this: The galactic pirate or　　　　whatever Kouji slipped and hit his head while in the toilet and lost his memory in the process.
 //［ファル］：本気なの？
 [Far]: Really?
 //［宏治］：厳密に言うと正確じゃない。でも、今の状況に一番近い設定だと思う。
@@ -14093,7 +14093,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：だから、何でそんな危なっかしい機械を作ったりしたのさ、君は。
 [Kouji]: I said, what did you build that dangerous machine  for, anyway?
 //［宏治］：別に、海賊コウジじゃなくても、そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんじゃないか。
-[Kouji]: Even if that pirate Kouji wasn't around, there　　　would be plenty of other less-than-noble parties who would use that encoder, don't you think?
+[Kouji]: Even if that pirate Kouji wasn't around, there　　　would be plenty of other less-than-noble parties who would  use that encoder, don't you think?
 //［ファル］：そ、それは‥‥‥。
 [Far]: S-So what...
 //［宏治］：人類全員が聖人君子って訳じゃないし、そうしたリスクを考えなかったのかい？
@@ -14103,7 +14103,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：ち、違うわ‥‥。
 [Far]: N-no...
 //［宏治］：いやそうさ。オレが知っている先生もね、そういうタイプなんだ。無茶苦茶頭はいいんだけど、想像力がちょっと欠如していてね。
-[Kouji]: Well, it sure seems that way. A doctor I know is　　the same way. She has a good head on her shoulders, but herimagination is a bit lacking.
+[Kouji]: Well, it sure seems that way. A doctor I know is　　the same way. She has a good head on her shoulders, but her imagination is a bit lacking.
 //［ファル］：でも、基本コンセプトは全然違ったのよ。
 [Far]: However, you're wrong about the fundamental concept.
 //［宏治］：どういうこと？
@@ -14229,7 +14229,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：ほ、ホント？（殴られるかと思ったぜ‥‥。）
 [Kouji]: R-really? (I thought she'd give me another wallop  ...)
 //［ファル］：ホントよ。この胸も、この口も、アソコも‥‥みんなコウジのモノよ。好きにしていいの‥‥。
-[Far]: Really. This chest, these lips, this pussy...they're all Kouji's. You can do whatever you want...
+[Far]: Really. This chest, these lips, this pussy...they're all yours. You can do whatever you want...
 //［宏治］：んなこと言うと、海綿体に血液がたまるじゃないか。
 [Kouji]: If you say that kind of thing, all my blood will　　rush straight to my sponge.
 //［ファル］：‥‥さっき、あんなに出したばかりなのに‥‥すご‥‥。
@@ -14269,7 +14269,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：いいぜ、どうした？
 [Kouji]: It's fine, what's going on?
 //［トレイシー］：あっ、はい‥‥さきほど、《クワドラ》の航路上にいた大型シップからの威嚇砲撃です。
-[Tracy]: Ah, yes...just earlier, in the middle of the route,the [Kuwadora] was hit by a warning missile from a　　　　　large-scale ship.
+[Tracy]: Ah, yes...just earlier, in the middle of the route,the Quadra was hit by a warning missile from a large-scale  ship.
 //［宏治］：威嚇砲撃ぃ？
 [Kouji]: A warning missile? 
 //［ファル］：どうしたのよ、コウジ‥‥。
@@ -14307,11 +14307,11 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：お、オレ！？
 [Kouji]: To m-me?
 //［女の声］：『《クワドラ》はすでに拿捕され、我が手中にある。サイキックエンコーダをわたしてもらう。』
-[Woman's voice]: [[We're seizing control of the [Kuwadora]. Hand over the Psychic Encoder.]]
+[Woman's voice]: [[We're seizing control of the Quadra. Handover the Psychic Encoder.]]
 //［宏治］：エンコーダを奪いに来たのか‥‥やけに挑発的なヤツだな。
 [Kouji]: They're here to pilfer the encoder... what an　　　incendiary bunch.
 //［女の声］：『我こそは大宇宙を支配する海賊ビアンカ‥‥いつぞやの借りは返させてもらうぞ。』
-[Woman's voice]: [[I am the pirate who will control the　　　universe, Bianca...and I'm taking back what you stole some time ago.]]
+[Woman's voice]: [[I am the pirate who will control the　　　universe, Bianca...and I'm taking back what you stole some  time ago.]]
 //［宏治］：か、海賊って‥‥。
 [Kouji]: A pirate, she says...
 //［ファル］：聞いたことがあるわ。ビアンカって、コウジに勝るとも劣らない残虐非道な‥‥。
@@ -14473,7 +14473,7 @@ As I closed the door...
 //［宏治］：あっ、もしかして、ビアンカって人？
 [Kouji]: Ah-, you're that Bianca person, aren't you?
 //［ビアンカ］：とぼけるのもそこまでだ。既に《クワドラ》は、我が手中にある。
-[Bianca]: I see you've stopped playing dumb. The [Kuwadora] is already mine.
+[Bianca]: I see you've stopped playing dumb. The Quadra is  already mine.
 //［宏治］：ふーん、そうなんだ。
 [Kouji]: Hmmm, is that so?
 //［ビアンカ］：貴様の機動シップは、既に私の手中にある、とこう言っているのだぞ。
@@ -14523,7 +14523,7 @@ As I closed the door...
 //［宏治］：なんだよ、その汚い奸計ってさ。
 [Kouji]: What was that dirty scheme anyway?
 //［ビアンカ］：知れたこと！　私を置き去りにして‥‥私は脱獄するまで軍収容所でわびしい毎日を‥‥。
-[Bianca]: That's obvious! You deserted me...until I broke　　out, I spent every wretched day in that military detention ...
+[Bianca]: That's obvious! You deserted me...until I broke　　out, I spent every wretched day in that military detention  ...
 //［宏治］：苦労したんだなぁ。
 [Kouji]: You went through a lot, didn't you?
 //［ビアンカ］：ええい、黙れ黙れ！　奸計にハメた当事者の貴様に、私の悔しさがわかってたまるか！！
@@ -14583,7 +14583,7 @@ As I closed the door...
 //［男］：貴様では、ビアンカには勝てん。
 [Man]: You will not prevail against Bianca.
 //［宏治］：さ、さっき、『よけろ』って耳元で叫んだ男か！？
-[Kouji]: W-were you the one who just told me to "Move aside"?
+[Kouji]: W-were you the one who just told me to "Move　　　 aside"?
 //［男］：そうだ。
 [Man]: Yes, I am.
 //［宏治］：誰だ、お前は。
@@ -14789,7 +14789,7 @@ to02_m
 //to03_m
 to03_m
 //［宏治］：惑星エイレートで過ごしたときのことを、覚えているかい？
-[Kouji]: Do you remember the time we passed by planet Eirate?
+[Kouji]: Do you remember the time we passed by planet　　　 Eirate?
 //［トレイシー］：えっ‥‥。
 [Tracy]: Umm...
 //［宏治］：いやその、覚えていないのなら、別にいいんだけど。
@@ -15149,11 +15149,11 @@ At present, I had a few stages of my operation mapped out.  Namely, the operatio
 //オレの考えた計画はこうだ。
 This was how I'd thought it out.
 //わざと、この高機動シップ《クワドラ》を、ビアンカの悪趣味な戦艦に捉えさせる。
-First, I'll deliberately let Bianca's ruddy battle ship　　 capture this high-class mobile ship "Kuwadora".
+First, I'll deliberately let Bianca's ruddy warship take　　this high-speed ship, the Quadra, into its grasp.
 //コウジは賢しい、という話だ。そして中を検分したときに１人しか発見できなければ、当然《クワドラ》をオトリにしたと考えるだろう。
-They do say Kouji is clever. Then, if an overall inspection finds that no one is there, I think Bianca will definitely  take the "Kuwadora".
+They do say Kouji is clever. Then, if an overall inspection finds that no one is there, I think Bianca will definitely  take the Quadra.
 //奴等が船外を模索している間に、《クワドラ》内部に隠れていた俺たちは、速やかにその場を脱出、敵船内に進入する。
-We'll be hiding inside the "Kuwadora", and, as they're　　　scanning the outside of the ship, we'll make a speedy escapeentering the enemy ship.
+We'll be hiding inside the Quadra, and, as they're scanning the outside of the ship, we'll make a speedy escape enteringthe enemy ship.
 //そして潜入した後は‥‥‥‥。
 And once we've infiltrated the ship...
 //高度な柔軟性を維持しつつ、臨機応変に対処する。これしかない！
@@ -15171,7 +15171,7 @@ Rumble, rumble, rumble!!
 //［宏治］：な、何だ‥‥。
 [Kouji]: W-what was that...?
 //［トレイシー］：牽引ビームに、《クワドラ》が捉えられたのですわ。
-[Tracy]: A tractor beam seems to have latched onto the　　　"Kuwadora".
+[Tracy]: A tractor beam seems to have latched onto the　　　Quadra.
 //［宏治］：荒っぽいなぁ。
 [Kouji]: That was pretty rough, wasn't it?
 //［トレイシー］：ビアンカさんの、性格でしょうか。
@@ -15181,7 +15181,7 @@ Tracy let slip a sly smile.
 //そうなのだ、この計画ではランファをオトリとして、オレとトレイシーが潜入工作という重責を担うことになった。
 That's right, the plan was to have Lanhua be captured, and  to have Tracy and me do the dirty work of slipping on board.
 //いつまでも、ここでこうしている訳にはいかない。ビアンカが《クワドラ》を調べ終わった後、オレたちは彼女のシップへ潜入し、ファルを助け出さなければならないのだ。
-We didn't plan to stay here forever. Once Bianca's scan of  the "Kuwadora" was done, we had to sneak aboard her ship andrescue Far.
+We didn't plan to stay here forever. Once Bianca's scan of  the Quadra was done, we had to sneak aboard her ship and　　rescue Far.
 //［宏治］：さぁ、これからだな。
 [Kouji]: Well, here we go.
 //［トレイシー］：はい。きっと、成功すると思いますわ。
@@ -15719,7 +15719,7 @@ bi04_m
 //［ファル］：い、イヤらしくなんて、ないわ‥‥。
 [Far]: Th-they're not lewd...
 //［ビアンカ］：こんなに、乳首を押っ立ててるのにかい？
-[Bianca]: Even when your nipples stand out like two thimbles?
+[Bianca]: Even when your nipples stand out like two　　　　 thimbles?
 //［ファル］：う、ウソよ‥‥ウソよ‥‥。
 [Far]: N-no, they're not...
 //［ビアンカ］：ここがこんなに濡れているのに‥‥。
@@ -15975,11 +15975,11 @@ Lanhua?
 //両目に涙をためたランファが、胸の前で両手を硬く握りしめ、首を小刻みに振りながらイヤイヤをしていた。
 With tears filling her eyes, Lanhua clasped her hands　　　　tightly before her and quickly shook her head.
 //［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。
-[Lanhua]: Kouji-sama, Lanhua has never forgotten that time.
+[Lanhua]: Kouji-sama, I've never forgotten that time.
 //［宏治］：ら、ランファ‥‥。
 [Kouji]: L-Lanhua...
 //［ランファ］：コウジ様‥‥コウジ様が許してくれるなら、ランファ‥‥ランファ‥‥。
-[Lanhua]: Kouji-sama... If you will forgive me, Lanhua ...  Lanhua ...
+[Lanhua]: Kouji-sama... If you will forgive me, I ... I ...
 //［宏治］：（くそぉ、コウジのやつ、こんないい子を泣かせるなんて‥‥。）
 [Kouji]: (Dammit, Kouji, to make such a good woman cry...)
 //オレは意を決して語りだした。これは、彼女に言っておかなくては、フェアじゃない。
@@ -16037,7 +16037,7 @@ As I breathed on the back of her neck, her body tensed up inresponse.
 //［ランファ］：コウジ様‥‥あぁ、コウジ様ぁ‥‥‥。
 [Lanhua]: Kouji-sama...ahhh, Kouji-sama....
 //ランファはオレに甘えるように、頬をすり寄せてくる。ただ抱き合っているだけで、こんなにも幸せな気分になるものだろうか。
-Lanhua sweetly snuggled her cheek against mine. I felt a　　wonderful happiness just by hugging like this.
+Lanhua sweetly nuzzled her cheek against mine. I felt a　　 wonderful happiness just by hugging like this.
 //そっとランファの唇を自分のでふさいだ。柔らかく、暖かい。オレは構わず舌を奥深く差し込んだ。
 I softly pressed my lips to Lanhua's. They were soft and　　warm. I unreservedly stuck my tongue deep into her mouth.
 //［ランファ］：んっ‥‥んんん‥‥。
@@ -16053,7 +16053,7 @@ As saliva ran down her throat, Lanhua drank down the excess.She pressed her arms
 //［宏治］：柔らかいな、ランファの身体は。
 [Kouji]: Your body's quite soft, Lanhua.
 //さすがに胸や腰などは、あのトレイシーなどには及ばないが、要所要所は意外に肉付きが悪くない。
-Indeed, her chest and waist aren’t quite on par with someonelike Tracy's, but she’s surprisingly curvy and desirable in all the right places.
+Indeed, her chest and waist aren't quite on par with someonelike Tracy's, but she's surprisingly curvy and desirable in all the right places.
 //オレは、腰を抱き寄せて、尻の肉を軽く掴んだ。ふにゃっという柔らかい感触が伝わってくる。
 I pulled her hips close to me and lightly grasped her ass. Afluffy, soft feeling enveloped my hands.
 //［宏治］：柔らかいね、ランファのお尻。
@@ -16083,7 +16083,7 @@ I rolled my fingertips over her cute, small nipples.　　　　They would gradu
 //髪の毛に触れてみる。フワリとした感触が、手のひらに心地よさを伝えてくる。柔らかく、流れるような髪の毛だった。
 I ran my hands through her hair. Her soft, flowing hair　　 filled my palms with a pleasant lightness.
 //［宏治］：じゃあ、邪魔な下着はとっちゃおうな。
-[Kouji]: Now, let's remove those panties in the way.
+[Kouji]: Now, let's get those panties out of the way.
 //［ランファ］：恥ずかしいですぅ‥‥。
 [Lanhua]: It's embarrassing....
 //ra02c_m
@@ -16229,11 +16229,11 @@ bi02
 //［宏治］：まあ、確かにその姿を見れば、誰でもびっくりするだろうな‥‥。
 [Kouji]: Well, anyone seeing your appearance would be　　　 shocked....
 //［ビアンカ］：フッ、あまりに遅いので、待ちわびだぞ。
-[Bianca]: Heh, you're so late, I got tired of waiting.
+[Bianca]: Heh, you're late, I got tired of waiting.
 //［宏治］：何だか、来るのが分かっていたような口振りだな。
 [Kouji]: You seem to have known I was coming.
 //［ビアンカ］：そうだ、貴様と再び闘うためにな‥‥貴様の奴隷らの言い分だと、貴様はあのとき本調子では無かったと言うではないか。
-[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself from back then.
+[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself.
 //［宏治］：まぁ、本来のコウジではないって意味じゃ、そうだな。
 [Kouji]: Well, if you mean I'm not the Kouji from before,　 you'd be right.
 //［ビアンカ］：フン、何度闘っても同じだと思うが、貴様にそう思われるのもしゃくだ。
@@ -16269,7 +16269,7 @@ bi02b
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
 //［ビアンカ］：オーッホホホ！　当たり前だ、効かなくては武器にならないではないか。
-[Bianca]: O-hohohoho! Of course it was, if it wasn't　　　 effective, you couldn't call this a weapon!
+[Bianca]: O-hohohoho! Of course it was, if it wasn't　　　  effective, you couldn't call this a weapon!
 //ビシィ、ビシィ！
 *Bashee, bashee*!
 //［宏治］：いたっ、いたっ‥‥痛いってば！
@@ -16523,9 +16523,9 @@ bi06d
 //［宏治］：《な、なにぃ！？》
 [Kouji]: {W-WHAT?!}
 //［コウジ］：《今なら大丈夫だ。早く言うのだ！》
-[Kouji]: {It'll be all right for now. Just tell her already!}
+[Kouji]: {It'll be all right for now. Just tell her　　　　 already!}
 //［宏治］：び、びびびビアンカ‥‥その、愛してる‥‥。
-[Kouji]: B-B-B-Bianca....um, I love you....
+[Kouji]: B-B-B-Bianca.... um, I love you....
 //bi06e
 bi06e
 //bi06e_m
@@ -16583,7 +16583,7 @@ After that, what happened was......
 //all
 all
 //［宏治］：実はまだ、オレは《クワドラ》にいたりする。
-[Kouji]: The truth is, I've returned back to the {Quadra}.
+[Kouji]: The truth is, I've returned back to the Quadra.
 //［トレイシー］：ランファ、このお皿をテーブルに並べて頂戴。
 [Tracy]: Lanhua, could you set the table, please?
 //［ランファ］：んもぉ、ビアンカさん、ちょっとは手伝って下さいよぉ。
@@ -17353,7 +17353,7 @@ bi05
 //　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ
 //［ランファ］：たぶん、牽引ビームに、《クワドラ》が捉えられたんだと思います。
-[Lanhua]: It's probably been captured by the {Quadra}'s　　 tractor beam.
+[Lanhua]: It's probably been captured by the Quadra's　　　 tractor beam.
 //［ランファ］：ビアンカさんの、性格でしょうね、きっと。
 [Lanhua]: This is just what Bianca would do.
 //ランファが隣で、屈託のない笑みをこぼす。
@@ -17997,7 +17997,7 @@ to05e
 //［トレイシー］：そう‥‥私はトレイシー‥‥。
 [Tracy]: Yes...I'm Tracy....
 //［トレイシー］：ここは調査船《クワドラ》‥‥惑星エイレート付近‥‥。
-[Tracy]: This is the exploratory ship <Quadra>... near the  planet Eirate....
+[Tracy]: This is the exploratory ship Quadra... near the　  planet Eirate....
 //［トレイシー］：先だって、惑星エイレート上において、先史文明の遺跡が発掘され、私たち学術調査団が派遣された‥‥。
 [Tracy]: Earlier, on Eirate, our academic exploration group was sent out to excavate the ruins of the last civilization ...
 //［トレイシー］：私も、遺跡発掘調査隊に従事している‥‥。
@@ -18729,7 +18729,7 @@ s0402
 //［ビアンカ］：そうかい？　私も行きたかったなぁ。
 [Bianca]: Really? Then I should have gone, too.
 //［トレイシー］：‥‥ビアンカさんはパイロットですから、本船の《クワドラ》を離れられないでしょう。
-[Tracy]: ...Bianca, since you're the pilot, I can't let you leave the {Quadra}.
+[Tracy]: ...Bianca, since you're the pilot, I can't let you leave the Quadra.
 //［ビアンカ］：そう、それが頭にくるのよ。私だって、太古の遺跡とやらをこの目で見てみたいさ。
 [Bianca]: Yeah, I know that. But if it were me, I'd want to see those ancient ruins up close with my own two eyes.
 //［トレイシー］：‥‥適材適所ですわ。
