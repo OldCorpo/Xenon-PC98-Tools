@@ -2186,7 +2186,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
-[Far]: We're inside the {Nuz} star system, at the edge of　 the known universe. We're currently on standby above its　　primary star, {Nuz}.
+[Far]: We're inside the Nuz star system, at the edge of the known universe. We're currently on standby above its primarystar, Nuz.
 //［コウジ］：‥‥‥‥‥！？
 [Kouji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
@@ -3767,7 +3767,7 @@ With good timing, Far called out to me.
 //［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
 [Far]: But first, you need to know why we are here. That's  fine, right?
 //［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
-[Far]: This is the {Nuz} star system. A few years ago, on　 one of these planets, we discovered the ruins of a　　　　　prehistoric civilization...
+[Far]: This is the Nuz star system. A few years ago, on one of these planets, we discovered the ruins of a prehistoric  civilization...
 //［コウジ］：‥‥先史文明？
 [Kouji]: A prehistoric civilization?
 //［ファル］：風化寸前の、化石のような遺跡らしいけど、知的生命体の傍証になるかもしれないと、考古学者たちは驚喜しているわね。
@@ -3809,7 +3809,7 @@ With good timing, Far called out to me.
 //［コウジ］：パラ‥‥サイコロジー？
 [Kouji]: Para...psychology?
 //［ファル］：そう、エイレートに接近したとき、先の第１次、第２次調査隊は全滅してしまった‥‥。
-[Far]: That's right. Since they came close to {Eirate}, the first and second investigative teams were wiped out...
+[Far]: That's right. Since they came close to Eirate, the　 first and second investigative teams were wiped out...
 //［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
 [Far]: We won't be going into the same rut, since we'll be  outside the planetary sphere, and using the encoder to　　　investigate.
 //［コウジ］：あの、棺桶みたいな装置か‥‥。
@@ -3827,7 +3827,7 @@ With good timing, Far called out to me.
 //［コウジ］：そうか‥‥。
 [Kouji]: I see...
 //［ファル］：船は遠隔で操作すればいいわ。とりあえず、エイレートに近づかなければ、危険はなさそうだから。
-[Far]: Working remotely on the ship is favorable. Getting　 close to {Eirate} now is dangerous, after all.
+[Far]: Working remotely on the ship is favorable. Getting　 close to Eirate now is dangerous, after all.
 //［コウジ］：‥‥私は、いったいどこで？
 [Kouji]: ...Where do I fit into all this?
 //［ファル］：あなたは唯一、第２次調査隊シップの中で、意識が残っていた貴重な証人なのよ。
@@ -4453,9 +4453,9 @@ Structurally, gravity should always have pointed towards thebottom of the ship.
 //船が傾くと感じるのは、重力制御に何か異常が起きたのかもしれない‥‥。
 The ship's tilt meant that something had probably gone wrongwith the gravitational control....
 //［ファル］：いい、コウジ。今現在このシップは、動力の異常出力によって、ナーズへと引き寄せられているの。
-[Far]: It's ok, Kouji. Just now, due to this ship's abnormalpower output, we've been drawn towards {Nuz}.
+[Far]: It's ok, Kouji. Just now, due to this ship's abnormalpower output, we've been drawn towards Nuz.
 //［コウジ］：（‥‥ナーズというと、あの恒星のことか！？）
-[Kouji]: ({Nuz} means that star, doesn't it?!)
+[Kouji]: (Nuz means that star, doesn't it?!)
 //［ファル］：良く聞いて頂戴。時間が無いわ、今からすぐに格納庫のシャトルへ来て。脱出するのよ‥‥。
 [Far]: Please listen to me. We don't have a lot of time, so let's head to the hangar now. Let's make our escape...
 //［ファル］：恒星の重力に完全に捉えられるまで、あと３分しかないわ。急いで‥‥‥‥。
@@ -5357,7 +5357,7 @@ Whatever happened after that, I don't remember.
 //［コウジ］：そうだ、例のシップはどうなったんだい？
 [Kouji]: That's right, what happened to the ship I was on?
 //［トレイシー］：恒星ナーズへ墜ちました‥‥。
-[Tracy]: It fell into the star {Nuz}...
+[Tracy]: It fell into the star Nuz...
 //［コウジ］：お、墜ちたって‥‥！？
 [Kouji]: It fell...?!
 //［トレイシー］：エンジンの、突然の異常出力によって、操舵不能となり、恒星の重力に捕らわれました。
@@ -6533,7 +6533,7 @@ I pulled the gun out of her hip holster, and suddenly let goof her. The sudden a
 //［コウジ］：惑星？
 [Kouji]: Planet?
 //［ファル］：エイレートのことよ。
-[Far]: Yes, the planet {Eirate}.
+[Far]: Yes, the planet Eirate.
 //［ファル］：私を、どうするの？
 [Far]: What are you going to do to me?
 //［コウジ］：確か、この船にはシャトルがあったな。あれは惑星上へ降りることができるのか？
@@ -6693,7 +6693,7 @@ Far turned around to the front and was silent once more...
 //ここまで行き違いが進行していると、些細な事はもうどうでもよくなってくる。
 Up until now, I'd made mistakes, but these trivialities　　 didn't matter anymore.
 //私はそう考えると、足を伸ばし、シートにぐっともたれ掛かった。惑星エイレートはもう、目の前にまで迫っている‥‥。
-With this in mind, I stretched my legs and laid down on the sheet. The planet {Eirate} was within reach...
+With this in mind, I stretched my legs and laid down on the sheet. The planet Eirate was within reach...
 //s0111
 s0111
 //惑星は、暗く、じめじめとした場所だった‥‥。
@@ -7327,7 +7327,7 @@ Also, the unbearably innocent woman with the trademark big  lemon-yellow ribbon 
 //この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
 She is this mobile ship Quadra's engineer, navigator, and myslave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
-The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the {Quadra}.
+The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the Quadra.
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
 [Kouji]: Did you finish preparing the Universal Pirate　　　Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
@@ -9741,7 +9741,7 @@ ko01
 //［宏治］：んー、じゃあ‥‥‥‥。
 [Kouji]: Well, then....
 //［コウジ］：よし、では惑星エイレートで過ごした時のことを言ってやれ。
-[Kouji]: Right, then talk to them about passing over the　　planet {Eirate}.
+[Kouji]: Right, then talk to them about passing over the　　planet Eirate.
 //［コウジ］：それで恐らく確信してもらえる事だろう。
 [Kouji]: That should be enough to convince you.
 //［宏治］：なんだよ、それは。
@@ -12974,7 +12974,7 @@ It was quite complicated. I couldn't stand up properly. As Iwinced, I fell forwa
 //ガキーンッ！
 *smack!!*
 //目から火花が散りそうな、容赦ない一撃だった。シャワーの取っ手を手にした彼女が、ブルブルと震えているのが分かる。
-She'd hit me mercilessly enough to make me see stars. She　　had one hand gripping the shower handle, and I realized shewas quivering.
+She'd hit me mercilessly enough to make me see stars. She　　had one hand gripping the shower handle, and I realized she was quivering.
 //オレは額を抑えながら、フラフラしながら、しどろもどろで弁明した。
 As I rubbed my cheek, still dizzy, I confusedly apologized.
 //［宏治］：‥‥ご、誤解なんだって。イテテ‥‥。
@@ -16343,7 +16343,7 @@ bi02b
 //［コウジ］：《‥‥なんだ、それは。》
 [Kouji]: {...What does that mean?}
 //［宏治］：《ノリの悪いヤツだな。ＯＫというオレの時代の俗語だよ！》
-[Kouji]: {You're not great at reading the mood, are you?　　It's a phrase meaning "OK" in my time's slang!}
+[Kouji]: {You're such a killjoy. It's slang from my time, itmeans "OK"!}
 //［コウジ］：《うむ、ではいくぞ。》
 [Kouji]: {Ah, then let's go.}
 //［宏治］：（な、なんだ‥‥凄い感覚が‥‥。）
