@@ -4,8 +4,10 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 
 ### Advancement
 
-    Translation : Roughly the 98.5% ~ 100% is translated (but may need style revisions and other things)
-    Insertion   : Latest patch covers 99.8% of the translation into the game files, it should cover all storylines
+    Translation : 100% of the story is translated and proofchecked.
+    Insertion   : 100% of the story is inserted into the game. With the exception of the main load menu
+                       and the omake, as they are harcoded into the program (executable) and I didn't 
+                       found a reliable way to edit those.
 
 ### Workflow
 
@@ -34,14 +36,14 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 ### Credits
 
     OldCorpo - Translation completion, Tools
+ dvo - Proofreading and translation improvements
+           Laukku - Some proofreading
+          Asterix - Some proofreading
         Xanderzone - Testing, Support
            Fuzion - Testing, Support
 
-          ~ additional translation ~
-         HempTL - English translation
-            Asterix - Proofreading
-
        ~ based on the original work of ~
+                    HempTL
                   siriusxiv
                  esperknight
                  MulletDonkey
