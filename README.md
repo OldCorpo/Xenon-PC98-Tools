@@ -47,6 +47,6 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 - siriusxiv
 - esperknight
 - MulletDonkey
-                  OmBadai
+- OmBadai
     
 
