@@ -35,18 +35,18 @@ XENON \~The limbs of phantasmagoria\~ : Translation project
 
 ### Credits
 
-    OldCorpo - Translation completion, Tools
- dvo - Proofreading and translation improvements
-           Laukku - Some proofreading
-          Asterix - Some proofreading
-        Xanderzone - Testing, Support
-           Fuzion - Testing, Support
+- OldCorpo - Translation completion, Tools
+- dvo - Proofreading and translation improvements
+- Laukku - Some proofreading
+- Asterix - Some proofreading
+- Xanderzone - Testing, Support
+- Fuzion - Testing, Support
 
-       ~ based on the original work of ~
-                    HempTL
-                  siriusxiv
-                 esperknight
-                 MulletDonkey
-                   OmBadai
+~ based on the original work of ~
+- HempTL
+- siriusxiv
+- esperknight
+- MulletDonkey
+                  OmBadai
     
 
